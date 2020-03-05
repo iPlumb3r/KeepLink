@@ -40,9 +40,7 @@ Supported <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master
     </tbody>
 </table>
 
-How to change the level in KL :
-* Swap the bottom bar to rigth
-* Open menu "Settings"
-* Select "KeepLink level" Property
-* Choose you level
+See ow to change the level in KL <a href="https://github.com/iPlumb3r/KeepLink/blob/master/Functionalities/ChangeLevel.md">here</a>
+
+
 
