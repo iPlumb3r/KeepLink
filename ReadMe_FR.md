@@ -10,7 +10,7 @@ Exemples d’applications "Perso"
 * Do To List (Course, Voyages, …)
 * Home Management
 * Networking
-* Arbre généalogique
+* "Arbre" généalogique
 * Médiathèque
 * Gestion de cave à vin
 * ...
