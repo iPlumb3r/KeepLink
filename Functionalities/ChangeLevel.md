@@ -2,7 +2,7 @@ Change Level
 ==
 Levels in KL
 -
-There is 3 "Standard" level in KL :
+There is 3 "Standard" levels in KL :
 * Normal
 * Advanced
 * Designer
