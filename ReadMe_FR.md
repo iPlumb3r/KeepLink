@@ -12,7 +12,7 @@ Exemples d’applications "Perso"
 * Networking
 * "Arbre" généalogique
 * Médiathèque
-* Gestion de cave à vin
+* Gestion de cave à vins
 * ...
 
 Exemples d’applications "Pro"
