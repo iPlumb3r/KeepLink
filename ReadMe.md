@@ -8,35 +8,33 @@ Supported Functionnal Modes
 <table>
     <thead>
         <tr>
-            <th>H1</th>
-            <th>H2</th>
-            <th>H3</th>
-            <th>H3</th>       
+            <th></th>
+            <th>Normal</th>
+            <th>Advanced</th>
+            <th>Designer</th>   
+            <th>Packager</th>   
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>A1</td>
-            <td>A1</td>
-            <td>A2</td>
+            <td>Model-Driven</td>
+            <td></td>
+            <td></td>
+            <td>A3</td>
             <td>A3</td>
         </tr>
         <tr>
-            <td>A1</td>
-            <td>A1</td>
-            <td>A2</td>
-            <td>A3</td>
-        </tr>
-        <tr>
-            <td>A1</td>
+            <td>Model-Discovery</td>
             <td>A1</td>
             <td>A2</td>
             <td>A3</td>
+            <td>A3</td>
         </tr>
         <tr>
-            <td>A1</td>
+            <td>Reconciliation Mode</td>
             <td>A1</td>
             <td>A2</td>
+            <td>A3</td>
             <td>A3</td>
         </tr>
     </tbody>
