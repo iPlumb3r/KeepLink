@@ -38,4 +38,4 @@ Exemples - non exhaustifs - de fonctions supportées
 
 Note
 -
-Pour les "power-users" : De nombreuse fonctionnalités avancés sont déblocable via des « Easter Eggs »
+Pour les "power-users" : De nombreuses fonctionnalités avancées sont déblocables via des « Easter Eggs »
