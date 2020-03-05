@@ -8,7 +8,7 @@ Supported Functionnal Modes
 <table>
     <thead>
         <tr>
-            <th></th>
+            <th>KL Level ></th>
             <th>Normal</th>
             <th>Advanced</th>
             <th>Designer</th>   
@@ -39,3 +39,10 @@ Supported Functionnal Modes
         </tr>
     </tbody>
 </table>
+
+How to change the level in KL :
+* Swap the bottom bar to rigth
+* Open menu "Settings"
+* Select "KeepLink level" Property
+* Choose you level
+
