@@ -5,7 +5,7 @@ Elle qui peut donc - potentiellement - s’appliquer de __nombreux domaines__ di
 (dès lors que l’essence du domaine peut être représenté par des __Items__ reliés par des __Liens__)   
 => C’est donc couvert à de vastes horizons ;-)
 
-Exemple d’applications Perso
+Exemples d’applications "Perso"
 -
 * Do To List (Course, Voyages, …)
 * Home Management
@@ -15,7 +15,7 @@ Exemple d’applications Perso
 * Gestion de cave à vin
 * ...
 
-Exemple d’applications Pro
+Exemples d’applications "Pro"
 -
 * Cartographie de Processus Métiers
 * Cartographie Applicative
