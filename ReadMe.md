@@ -17,25 +17,25 @@ Supported Functionnal Modes
     </thead>
     <tbody>
         <tr>
-            <td>Model-Driven</td>
-            <td></td>
-            <td></td>
-            <td>A3</td>
-            <td>A3</td>
+            <td>Model-Discovery</td>
+            <td>YES</td>
+            <td>YES</td>
+            <td>YES</td>
+            <td>YES</td>
         </tr>
         <tr>
-            <td>Model-Discovery</td>
-            <td>A1</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A3</td>
+            <td>Model-Driven</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>YES</td>
+            <td>YES</td>
         </tr>
         <tr>
             <td>Reconciliation Mode</td>
-            <td>A1</td>
-            <td>A2</td>
-            <td>A3</td>
-            <td>A3</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
+            <td>NO</td>
         </tr>
     </tbody>
 </table>
