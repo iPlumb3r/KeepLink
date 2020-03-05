@@ -2,7 +2,7 @@ KeepLink
 ==
 To Be Completed ...
 
-Supported <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/4_Functionalitites/FunctionalModes.md">Functionnal Modes</a>
+Supported <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master/4_Functionalities/FunctionalModes.md">Functionnal Modes</a>
 -
 
 <table>
