@@ -8,7 +8,8 @@ Supported Functionnal Modes
 <table>
     <thead>
         <tr>
-            <th>KL Level ></th>
+            <th>KL Level =>
+Functional Mode</th>
             <th>Normal</th>
             <th>Advanced</th>
             <th>Designer</th>   
