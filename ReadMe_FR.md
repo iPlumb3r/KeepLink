@@ -24,3 +24,18 @@ Exemples d’applications "Pro"
 * Démarche entrepreneuriale de type « Effectuation » 
 * PLM "ligth"
 * ...
+
+Exemples - non exhaustifs - de fonctions supportées
+-
+* Création intuitive des Items et des Liens
+* Liens bi-directionnels par défaut (avec sémantique adaptée à chaque sens)
+* Réification systématique des Liens (Car dans KL tous les Liens sont - aussi - des Items)
+* Association de Propriété (autant que nécessaire) aux Items (et donc aussi au Liens ;-)
+* Possibilité de réaliser des calculs avec les Propriétés numériques … … et de propager les résultats le long des liens d’une sémantique particulière
+* Abolition des frontières classiques « system » / « model » / « user » (ce qui permet à des Items « user » de référencer des élément du « model » (voire du « system »)
+* Collaboration en mode asynchrone (via l’envoie / réception de « Package »)
+* Soon : Synchronisation multi-device (Et collaboration  synchrone / Partage)
+
+Note
+-
+Pour les "power-users" : De nombreuse fonctionnalités avancés sont déblocable via des « Easter Eggs »
