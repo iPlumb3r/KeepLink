@@ -2,14 +2,15 @@ Comment démarrer avec KeepLink (KL) ?
 ==
 
 Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais fait appel à toutes les fonctionnalitées nécessaires à la création d'application plus élaborées : 
-* Créer un #Item
-* Créer un #Link
+* Créer un Item
+* Créer un Link
 
+Clic on the "Home" button for starting
 
-Créer un __#Item__
+Créer un __Item__
 -
-Lorsque on crée un « Item » dans KL, il est « quelconque » par défaut ...   
-... mais à tout tout moment on peux le définir comme étant un « Type » 
+Liste des étapes :
+
 <table>
     <thead>
         <tr>
@@ -21,19 +22,24 @@ Lorsque on crée un « Item » dans KL, il est « quelconque » par défaut 
     <tbody>
         <tr>
             <td>Clic on the "+" button</td>
-            <td>A2</td>
+            <td>Un champ "Name of the new Home" apparait</td>
             <td>A3</td>
         </tr>
         <tr>
-            <td>B1</td>
-            <td>B2</td>
-            <td>B3</td>
+            <td>Saisir dans le champ le nom de l'Item et cliquer sur "OK"</td>
+            <td>L'Item correspondant est crée, il apprait sous "Home"</td>
+            <td>ex : "Tim Berner Lee"</td>
+        </tr>
+       <tr>
+            <td>Choisir une image et cliquer sur "Clos internet picture </td>
+            <td>Et voilà !</td>
+            <td>KL est un outil qui s'appui sur le visuel</td>
         </tr>
     </tbody>
 </table>
 -
 
-Créer un __#Link__
+Créer un __Link__
 -
 Lorsque on crée un « Lien » dans KL (en faisant glisser un « Item » sur un autre), il est pas typé ...   
 ... mais il est possible de le typer en allant définir des types de lien dans le module « Design » 
