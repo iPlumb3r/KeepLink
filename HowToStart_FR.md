@@ -6,6 +6,8 @@ Cette page explique comment démarrer avec KL sur la base d'un exemple basique, 
 * Créer un Link
 * Naviguer un Link
 
+__Remarque :__ Les concepts clef de KL (__Item, Link, Type, Property__) sont volontairement nommé en Anglais (et en __gras__) et les concepts du modèle que l'on va construire sont volontairement en Anglais (et en _italique_) 
+
 Cliquer sur le boutton "Home" pour commencer ...
 
 Créer un __Item__
