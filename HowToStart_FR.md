@@ -50,7 +50,6 @@ Créer un __Link__
 -
 
 Liste des étapes :
-
 <table>
     <thead>
         <tr>
@@ -72,12 +71,6 @@ Liste des étapes :
         </tr>
     </tbody>
 </table>
-
-Naviguer un __Link__
--
-
-Liste des étapes :
-
 <table>
     <thead>
         <tr>
@@ -88,13 +81,39 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Faire glisser "Tim Berner Lee" sous "W3C"</td>
-            <td>Un lien est crée entre ces 2 Item, visible en haut à gauche dans la barre d'historique</td>
-            <td>Ou le contraire, ça n'a pas vraiment d'importance ;-)</td>
+            <td>Cliquer sur "Tim Berner Lee"</td>
+            <td>Il devient le nouveau contexte à la place de "Home" ; et on vois qu'il est relié à "W3C"</td>
+            <td></td>
         </tr>
         <tr>
-            <td>Et c'est tout !</td>
+            <td>Cliquer sur "W3C"</td>
+            <td>Il devient le nouveau contexte à la place de "Tim Berner Lee" ; et on vois qu'il est relié à ce dernier</td>
             <td></td>
+        </tr>
+    </tbody>
+</table>
+
+Naviguer un __Link__
+-
+
+Liste des étapes :
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Result</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cliquer sur "Tim Berner Lee"</td>
+            <td>Il devient le nouveau contexte à la place de "Home" ; et on vois qu'il est relié à "W3C"</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cliquer sur "W3C"</td>
+            <td>Il devient le nouveau contexte à la place de "Tim Berner Lee" ; et on vois qu'il est relié à ce dernier</td>
             <td></td>
         </tr>
     </tbody>
