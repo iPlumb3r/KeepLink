@@ -5,18 +5,6 @@ Cette page explique comment démarrer avec KL sur la base d'un exemple basique, 
 
 __Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et ainsi que les concepts du modèle que l'on va construire (qui sont eux en _italique_). 
 
-Liste des fonctions présentées sur cette page :
-* Créer un __Item__
-* Créer un __Link__
-* Naviguer un __Link__
-* Classifier/typer un __Item__ (Explicitement)
-* Classifier/typer un __Item__ (Implicitement)
-* Définir un __Type__ de __Link__
-* Définir une __Property__ sur un __Type__ d'__Item__
-* Définir une __Property__ sur un __Type__ de __Link__
-
-
-__Instructions__
 <table>
     <thead>
         <tr>
@@ -29,12 +17,12 @@ __Instructions__
         <tr>
             <td>Créer un Item</td>
             <td>Normal</td>
-            <td></td>
+            <td>ex : "Tim Berner Lee" & "W3C"</td>
         </tr>
         <tr>
             <td>Créer un Link</td>
             <td>Normal</td>
-            <td></td>
+            <td>Entre "Tim Berner Lee" & "W3C"</td>
         </tr>
          <tr>
             <td>Naviguer un Link</td>
@@ -42,29 +30,29 @@ __Instructions__
             <td></td>
         </tr>
         <tr>
-            <td>Classifier/typer un Item</td>
+            <td>Classifier/typer un Item (explicitement)</td>
             <td>Advanced</td>
-            <td>De manière explicite</td>
+            <td>ex : "Person"</td>
         </tr>
         <tr>
-            <td>Classifier/typer un Item</td>
+            <td>Classifier/typer un Item (implicitement)</td>
             <td>Advanced</td>
-            <td>De manière implicite</td>
+            <td>ex : "Organization"</td>
         </tr>
         <tr>
             <td>Définir un Type de Link</td>
             <td>Designer</td>
-            <td></td>
+            <td>ex : "affilited to" ("affiliates") </td>
         </tr>
         <tr>
             <td>Définir une Property sur un Type d'Item</td>
             <td>Designer</td>
-            <td></td>
+            <td>ex : "birth date"</td>
         </tr>
         <tr>
             <td>Définir une Property sur un Type de Link</td>
             <td>Designer</td>
-            <td></td>
+            <td>ex : "hiring date"</td>
         </tr>
     </tbody>
 </table>
