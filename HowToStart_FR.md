@@ -6,10 +6,11 @@ Cette page explique comment démarrer avec KL sur la base d'un exemple basique, 
 __Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et les concepts du modèle que l'on va construire sont volontairement nommés en Anglais (et en _italique_) 
 
 List des fonctions :
-* Créer un Item
-* Créer un Link
-* Naviguer un Link
-* Classifier/typer un Item
+* Créer un __Item__
+* Créer un __Link__
+* Naviguer un __Link__
+* Classifier/typer un __Item__ (Explicitement)
+* Classifier/type un __Item__ (Implicitement)
 
 Cliquer sur le boutton "Home" pour commencer ...
 __Remarque :__ On est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
@@ -66,7 +67,7 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Faire glisser "Tim Berner Lee" sous "W3C"</td>
+            <td>Faire glisser "Tim Berner Lee" sur "W3C"</td>
             <td>Un lien est crée entre ces 2 Item, visible en haut à gauche dans la barre d'historique</td>
             <td>Ou le contraire, ça n'a pas vraiment d'importance ;-)</td>
         </tr>
@@ -87,12 +88,12 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Cliquer sur "Tim Berner Lee"</td>
+            <td>Cliquer sur l'Item "Tim Berner Lee"</td>
             <td>Il devient le nouveau contexte à la place de "Home" ; et on vois qu'il est relié à "W3C"</td>
             <td></td>
         </tr>
         <tr>
-            <td>Cliquer sur "W3C"</td>
+            <td>Cliquer sur l'Item "W3C"</td>
             <td>Il devient le nouveau contexte à la place de "Tim Berner Lee" ; et on vois qu'il est relié à ce dernier</td>
             <td></td>
         </tr>
@@ -118,12 +119,12 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Cliquer sur "Tim Berner Lee"</td>
+            <td>Cliquer sur l'Item "Tim Berner Lee"</td>
             <td>Il devient le nouveau contexte à la place de "Home" ; et on vois qu'il est relié à "W3C"</td>
             <td></td>
         </tr>
         <tr>
-            <td>Cliquer sur "W3C"</td>
+            <td>Cliquer sur l'Item "W3C"</td>
             <td>Il devient le nouveau contexte à la place de "Tim Berner Lee" ; et on vois qu'il est relié à ce dernier</td>
             <td></td>
         </tr>
@@ -139,9 +140,9 @@ Le contexte courant s'affiche en haut (juste en dessous de la barre d'historique
 * La partie "1/4 gauche" (qui contient un icone) représente le lien entre l'élement du contexte et cet élement
 Le nom 
 
-Classifier/type un __Item__
+Classifier/type un __Item__ (Explicitement)
 -
-Créer un nouvel __Item__ nommé _Person_
+Créer un nouvel __Item__ nommé _Person_ (En utilisant la fonction vu précédement "Créer un Item")
 
 __Remarque :__ Pour cette étape, il est bécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Advanced"
 
@@ -156,14 +157,22 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Cliquer sur "Tim Berner Lee"</td>
-            <td>Il devient le nouveau contexte à la place de "Home" ; et on vois qu'il est relié à "W3C"</td>
+            <td>Cliquer sur l'Item "Person"/</td>
+            <td>Un menu apparait</td>
             <td></td>
         </tr>
         <tr>
-            <td>Cliquer sur "W3C"</td>
-            <td>Il devient le nouveau contexte à la place de "Tim Berner Lee" ; et on vois qu'il est relié à ce dernier</td>
+            <td>Cliquer l'entrée "Is a type"</td>
+            <td>L'Item "Person" est maintenant un Type/td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Faire glisser "Tim Berner Lee" sur "Person"</td>
+            <td>Un Link "is a" est créer entre "Tim Berner Lee" et "Person"</td>
             <td></td>
         </tr>
     </tbody>
 </table>
+
+Classifier/type un __Item__ (Implicitement)
+-
