@@ -256,10 +256,20 @@ Liste des étapes :
             <td></td>
         </tr>
         <tr>
-            <td>Faire glisser Link "affiliated tosur le Type d'Item "Organization"</td>
+            <td>Faire glisser Link "affiliated to" sur le Type d'Item "Organization"</td>
             <td>Un lien ("affiliated to" ends to "Organization") est créé</td>
             <td></td>
         </tr>
+        <tr>
+            <td>Cliquer sur la Property "Reverse link name" du Link "affiliated to"</td>
+            <td>Un champ "Reverse link name" apparait</td>
+            <td></td>
+        </tr>   
+        <tr>
+            <td>Saisir dans ce champ "affiliates" et cliquer sur "OK"</td>
+            <td>Une sémantique de lien est maintenant disponible dans les 2 sens</td>
+            <td></td>
+        </tr>  
         <tr>
             <td>Sélectionner "Tim Berner Lee" (dans la barre d'historique par exemple)</td>
             <td>L'Item "Tim Berner Lee" devient le context courant</td>
@@ -277,7 +287,12 @@ Liste des étapes :
         </tr>
         <tr>
             <td>Choisir la sémantique "Tim Berner Lee" affiliated to "W3C</td>
+            <td>KL sait maintenant que TBL travaile pour le W3C ;-)</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Sélectionner l'Item "W3C"</td>
+            <td>On doit pouvoir observer cette même relation, mais avec la sémantique inverse</td>
             <td></td>
         </tr>
     </tbody>
