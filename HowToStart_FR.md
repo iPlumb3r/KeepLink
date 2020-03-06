@@ -226,3 +226,59 @@ Liste des étapes :
     </tbody>
 </table>
 
+Définir un __Type__ de __Link__ (et l'utiliser)
+-
+__Remarque :__ Pour cette étape, il est nécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Designer"
+
+Liste des étapes :
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Result</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ouvrir le menu "Tools / Design / Link" et appuyer sur "+"</td>
+            <td>Un champ "Name of the new Link" apparait</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Entrer "affiliated to" et appuyer sur "OK"</td>
+            <td>Un nouveau Type de Link est créé</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Faire glisser Link  "affiliated to" sur le Type d'Item "Person"</td>
+            <td>Un lien ("affiliated to" starts from "Person") est créé</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Faire glisser Link "affiliated tosur le Type d'Item "Organization"</td>
+            <td>Un lien ("affiliated to" ends to "Organization") est créé</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sélectionner "Tim Berner Lee" (dans la barre d'historique par exemple)</td>
+            <td>L'Item "Tim Berner Lee" devient le context courant</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>Swaper vers la gauche le texte "W3C"</td>
+            <td>Un menu apparait</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Selectionner "Edit Link"</td>
+            <td>Un menu apparait</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Choisir la sémantique "Tim Berner Lee" affiliated to "W3C</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
