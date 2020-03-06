@@ -21,9 +21,9 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Clic on the "+" button</td>
+            <td>Cliquer sur le boutton "+"</td>
             <td>Un champ "Name of the new Home" apparait</td>
-            <td>A3</td>
+            <td>Le champ porte ce nom car le contexte courant est "Home"</td>
         </tr>
         <tr>
             <td>Saisir dans le champ le nom de l'Item et cliquer sur "OK"</td>
@@ -37,10 +37,64 @@ Liste des étapes :
         </tr>
     </tbody>
 </table>
--
+
+Répéter cette opération pour un 2nd __Item__ (ex : "W3C")
+Maitenant que nous avont 2 __Items__ dans KL, nous allons pouvoir les relier avec un __Link__
+
+Remarque : Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" entout cas), il n'a pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
+* _Tim Berner Lee_ est une _Personne_
+* _W3C_ est une _Organisation_
 
 Créer un __Link__
 -
-Lorsque on crée un « Lien » dans KL (en faisant glisser un « Item » sur un autre), il est pas typé ...   
-... mais il est possible de le typer en allant définir des types de lien dans le module « Design » 
-(Nécessite d'être en mode « Designer »)
+
+Liste des étapes :
+
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Result</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Faire glisser "Tim Berner Lee" sous "W3C"</td>
+            <td>Un lien est crée entre ces 2 Item, visible en haut à gauche dans la barre d'historique</td>
+            <td>Ou le contraire, ça n'a pas vraiment d'importance ;-)</td>
+        </tr>
+        <tr>
+            <td>Et c'est tout !</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+Naviguer un __Link__
+-
+
+Liste des étapes :
+
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Result</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Faire glisser "Tim Berner Lee" sous "W3C"</td>
+            <td>Un lien est crée entre ces 2 Item, visible en haut à gauche dans la barre d'historique</td>
+            <td>Ou le contraire, ça n'a pas vraiment d'importance ;-)</td>
+        </tr>
+        <tr>
+            <td>Et c'est tout !</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
