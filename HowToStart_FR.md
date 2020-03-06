@@ -42,9 +42,9 @@ Liste des étapes :
 Répéter cette opération pour un 2nd __Item__ (ex : "W3C")   
 Maitenant que nous avont 2 __Items__ dans KL, nous allons pouvoir les relier avec un __Link__ ...
 
-Remarque : Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" entout cas), il n'a pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
-* _Tim Berner Lee_ est une _Personne_
-* _W3C_ est une _Organisation_
+__Remarque__ : Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" entout cas), il n'a pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
+* _Tim Berner Lee_ est une _Person_
+* _W3C_ est une _Organization_
 
 Créer un __Link__
 -
@@ -92,6 +92,11 @@ Liste des étapes :
         </tr>
     </tbody>
 </table>
+
+__Remarque__ : Lorsqu'on crée un __Link__ dans KL, il n'a - par defaut - pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que :
+* Tim Berner Lee _is affilited to_ W3C
+Oui que, dit "à l'envers" :
+* W3C _affiliates_ Tim Berner Lee
 
 Naviguer un __Link__
 -
