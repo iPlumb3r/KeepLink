@@ -13,7 +13,7 @@ Liste des fonctions présentée sur cette page :
 * Classifier/typer un __Item__ (Implicitement)
 * Définir un __Type__ de __Link__
 * Définir une __Property__ sur un __Type__ d'__Item__
-* Définir une __Property__ sur un __Type__ d'__Link__
+* Définir une __Property__ sur un __Type__ de __Link__
 
 Cliquer sur le boutton "Home" pour commencer ...   
 __Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
