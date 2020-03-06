@@ -297,3 +297,39 @@ Liste des étapes :
         </tr>
     </tbody>
 </table>
+
+Définir une Property sur un Type d'Item
+-
+Liste des étapes :
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Result</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ouvrir le menu "Tools / Design / Property" et appuyer sur "+"</td>
+            <td>Un champ "Name of the new Property" apparait</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Entrer "birth date" et appuyer sur "OK"</td>
+            <td>Une nouvelle Property est créé</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Faire glisser la Property  "birth date" sur le Type d'Item "Person"</td>
+            <td>Un lien ("birth date" defines "Person") est créé</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Sélectionner "Tim Berner Lee" (dans la barre d'historique par exemple)</td>
+            <td>L'Item "Tim Berner Lee" devient le context courant</td>
+            <td></td>
+        </tr>
+
+    </tbody>
+</table>
