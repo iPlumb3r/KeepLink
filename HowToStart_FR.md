@@ -106,8 +106,8 @@ Liste des étapes :
 </table>
 
 __Remarque__ : Lorsqu'on crée un __Link__ dans KL, il n'a pas - par defaut - de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que :
-* Tim Berner Lee _is affilited to_ W3C
-Oui que, dit "à l'envers" :
+* Tim Berner Lee _is affilited to_ W3C   
+Oui que, dit "à l'envers" :   
 * W3C _affiliates_ Tim Berner Lee
 
 Naviguer un __Link__
