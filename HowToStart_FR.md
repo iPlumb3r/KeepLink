@@ -38,14 +38,14 @@ Liste des étapes :
             <td>Le champ porte ce nom car le contexte courant est "Home"</td>
         </tr>
         <tr>
-            <td>Saisir dans le champ le nom de l'Item et cliquer sur "OK"</td>
+            <td>Saisir "Tim Berner Lee" dans le champ le nom de l'Item et cliquer sur "OK"</td>
             <td>L'Item correspondant est crée, il apprait sous "Home"</td>
-            <td>ex : "Tim Berner Lee"</td>
+            <td></td>
         </tr>
        <tr>
-            <td>Choisir une image et cliquer sur "Clos internet picture </td>
+            <td>Choisir une photo de Tim et cliquer sur "Close internet picture"</td>
             <td>Et voilà !</td>
-            <td>KL est un outil qui s'appui sur le visuel</td>
+            <td>KL est un outil qui s'appui sur le visuel en permanence</td>
         </tr>
     </tbody>
 </table>
