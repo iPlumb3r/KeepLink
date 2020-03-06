@@ -2,7 +2,7 @@ A propos de KeepLink
 ==
 KeepLink est une application de __Mind Mapping / Concept Mapping__ très générique.    
 Elle qui peut donc - potentiellement - s’appliquer de __nombreux domaines__ différents   
-(dès lors que l’essence du domaine peut être représenté par des __Items__ reliés par des __Liens__)   
+(dès lors que l’essence du domaine peut être représenté par des __Items__ reliés par des __Links__)   
 => C’est donc couvert à de vastes horizons ;-)
 
 Exemples d’applications "Perso"
