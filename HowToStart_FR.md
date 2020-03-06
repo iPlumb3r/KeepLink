@@ -6,7 +6,7 @@ Cette page explique comment démarrer avec KL sur la base d'un exemple basique, 
 * Créer un Link
 * Naviguer un Link
 
-Clic on the "Home" button for starting
+Cliquer sur le boutton "Home" pour commencer ...
 
 Créer un __Item__
 -
