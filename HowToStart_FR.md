@@ -1,9 +1,9 @@
 Comment démarrer avec KeepLink (KL) ?
 ==
 
-Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais qui fait appel à toutes les fonctionnalitées nécessaires à la création d'applications personnelles ou professionelles plus élaborées (Cf quelques exemples <a href="https://github.com/iPlumb3r/KeepLink/blob/master/ReadMe_FR.md">ici</a>
+Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais qui fait appel à toutes les fonctionnalitées nécessaires à la création d'applications personnelles ou professionelles plus élaborées (Cf quelques exemples <a href="https://github.com/iPlumb3r/KeepLink/blob/master/ReadMe_FR.md">ici</a>.
 
-__Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et ainsi que les concepts du modèle que l'on va construire (qui sont eux en _italique_) 
+__Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et ainsi que les concepts du modèle que l'on va construire (qui sont eux en _italique_). 
 
 Liste des fonctions présentée sur cette page :
 * Créer un __Item__
