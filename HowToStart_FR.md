@@ -12,6 +12,7 @@ List des fonctions :
 * Classifier/typer un Item
 
 Cliquer sur le boutton "Home" pour commencer ...
+__Remarque :__ On est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
 
 Créer un __Item__
 -
@@ -140,6 +141,9 @@ Le nom
 
 Classifier/type un __Item__
 -
+Créer un nouvel __Item__ nommé _Person_
+
+__Remarque :__ Pour cette étape, il est bécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Advanced"
 
 Liste des étapes :
 <table>
