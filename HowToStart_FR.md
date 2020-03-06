@@ -15,6 +15,61 @@ Liste des fonctions présentées sur cette page :
 * Définir une __Property__ sur un __Type__ d'__Item__
 * Définir une __Property__ sur un __Type__ de __Link__
 
+
+__Instructions__
+<table>
+    <thead>
+        <tr>
+            <th>Fonction</th>
+            <th>KeepLink Mode</th>
+            <th>Commentaire</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Créer un Item</td>
+            <td>Normal</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Créer un Link</td>
+            <td>Normal</td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>Naviguer un Link</td>
+            <td>Normal</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Classifier/typer un Item</td>
+            <td>Advanced</td>
+            <td>De manière explicite</td>
+        </tr>
+        <tr>
+            <td>Classifier/typer un Item</td>
+            <td>Advanced</td>
+            <td>De manière implicite</td>
+        </tr>
+        <tr>
+            <td>Définir un Type de Link</td>
+            <td>Designer</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Définir une Property sur un Type d'Item</td>
+            <td>Designer</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Définir une Property sur un Type de Link</td>
+            <td>Designer</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+
 __(WORK IN PROGRESS ...)__
 
 __Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
