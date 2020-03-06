@@ -338,7 +338,7 @@ Liste des étapes :
 Définir une Property sur un Type de Link
 -
 
--Liste des étapes :
+Liste des étapes :
 <table>
     <thead>
         <tr>
