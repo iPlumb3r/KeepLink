@@ -1,16 +1,19 @@
 Comment démarrer avec KeepLink (KL) ?
 ==
 
-Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais qui fait appel à toutes les fonctionnalitées nécessaires à la création d'application plus élaborées.
+Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais qui fait appel à toutes les fonctionnalitées nécessaires à la création d'applications personnelles ou professionelles plus élaborées (Cf quelques exemples <a href="https://github.com/iPlumb3r/KeepLink/blob/master/ReadMe_FR.md">ici</a>
 
-__Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et les concepts du modèle que l'on va construire sont volontairement nommés en Anglais (et en _italique_) 
+__Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et ainsi que les concepts du modèle que l'on va construire (qui sont eux en _italique_) 
 
 List des fonctions :
 * Créer un __Item__
 * Créer un __Link__
 * Naviguer un __Link__
 * Classifier/typer un __Item__ (Explicitement)
-* Classifier/type un __Item__ (Implicitement)
+* Classifier/typer un __Item__ (Implicitement)
+* Définir un __Type__ de __Link__
+* Définir une __Property__ sur un __Type__ d'__Item__
+* Définir une __Property__ sur un __Type__ d'__Link__
 
 Cliquer sur le boutton "Home" pour commencer ...   
 __Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
@@ -182,7 +185,7 @@ Liste des étapes :
 Nous venons de "dire" à KL que "Tim Berner Lee" est une _"Person"_ en ayant défini "Person" comme un __Type__ au préalable (puis en associa l'un à l'autre)   
 Nous allons maitenant "dire" à KL que W3C est une _"Organization"_ en faisant l'inverse ; c'est à dire en définissant un lien "is a" entre les 2.
 
-Classifier/type un __Item__ (Implicitement)
+Classifier/typer un __Item__ (Implicitement)
 -
 
 Créer un nouvel __Item__ nommé _Organzation_ (En utilisant la fonction vu précédement "Créer un Item")
