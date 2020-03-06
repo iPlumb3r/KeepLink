@@ -1,5 +1,7 @@
-Usage
+Comment démarrer avec KeepLink (KL) ?
 ==
+
+Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais fait appel à toutes les fonctionnalitées nécessaires à la création d'application plus élaborées
 
 Création d'un __Item__
 -
