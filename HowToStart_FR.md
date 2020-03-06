@@ -1,7 +1,7 @@
 Comment démarrer avec KeepLink (KL) ?
 ==
 
-Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais fait appel à toutes les fonctionnalitées nécessaires à la création d'application plus élaborées.
+Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais qui fait appel à toutes les fonctionnalitées nécessaires à la création d'application plus élaborées.
 
 __Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et les concepts du modèle que l'on va construire sont volontairement nommés en Anglais (et en _italique_) 
 
