@@ -375,13 +375,22 @@ Voilà un mini-modèle qui peut être étendu à loisir ou bien adapté en fonct
 
 Pour allez plus loin...
 -
-KL supporte la fonctionnalité de multi-typing, ce qui signifi qu'il est possible par exemple : 
+KL supporte la fonctionnalité de multi-typing, ce qui signifie qu'il est possible par exemple : 
 * De créer un __Item__ "Oxford University Alumni"
 * De faire de cet __Item__ un __Type__
-* D'associer "Tim Berner Lee" à ce __TYpe__ via un __Link__ "is a"
-* De créer 2 __Property__ de type Year : "Start" et "end"
+* D'associer "Tim Berner Lee" à ce __Type__ via un __Link__ "is a"
+* De créer 2 __Property__ de type Date : "study start date" et "study end date"
+* D'associer ces __Properties__ au _Type_ "Oxford University Alumni" via un __Link__ "defines"
+Alors elle seront disponible sur l'Item "Tim Berner Lee" car il est à la fois :
+* Une "Person"
+&
+* Un "Oxford University Alumni"
 
-Il existe dans KL des fonctionnalités qui permettent de faire des calcul avec les propriété et/ou de propager des propriété le long de certaine séamntique de liens ...
+Globalement, cette fonctionnalité de multi-typing permet de "voir" un même ensemble d'__Item__ selon des "prismes" différents
+
+Pour allez plus loin...
+-
+Il existe dans KL des fonctionnalités qui permettent de faire des calcul avec les __Property__ et/ou de propager des propriété le long de certaines sémantiques de __Link__ ...
 
 (To Be Completed)
 
