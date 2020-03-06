@@ -5,6 +5,8 @@ Cette page explique comment démarrer avec KL sur la base d'un exemple basique, 
 
 __Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et ainsi que les concepts du modèle que l'on va construire (qui sont eux en _italique_). 
 
+Ci-après une synthèse du programme proposé par cette page : 
+
 <table>
     <thead>
         <tr>
@@ -56,9 +58,6 @@ __Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont vo
         </tr>
     </tbody>
 </table>
-
-
-__(WORK IN PROGRESS ...)__
 
 __Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
 
