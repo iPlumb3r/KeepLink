@@ -4,6 +4,7 @@ Comment démarrer avec KeepLink (KL) ?
 Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais fait appel à toutes les fonctionnalitées nécessaires à la création d'application plus élaborées : 
 * Créer un Item
 * Créer un Link
+* Naviguer un Link
 
 Clic on the "Home" button for starting
 
