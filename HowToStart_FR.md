@@ -12,8 +12,8 @@ List des fonctions :
 * Classifier/typer un __Item__ (Explicitement)
 * Classifier/type un __Item__ (Implicitement)
 
-Cliquer sur le boutton "Home" pour commencer ...
-__Remarque :__ On est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
+Cliquer sur le boutton "Home" pour commencer ...   
+__Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
 
 Créer un __Item__
 -
@@ -162,17 +162,59 @@ Liste des étapes :
             <td></td>
         </tr>
         <tr>
+            <td>Cliquer l'entré "Show all properties"</td>
+            <td>Un menu apparait</td>
+            <td></td>
+        </tr>
+        <tr>
             <td>Cliquer l'entrée "Is a type"</td>
             <td>L'Item "Person" est maintenant un Type/td>
             <td></td>
         </tr>
         <tr>
             <td>Faire glisser "Tim Berner Lee" sur "Person"</td>
-            <td>Un Link "is a" est créer entre "Tim Berner Lee" et "Person"</td>
+            <td>Un Link "is a" est créé entre "Tim Berner Lee" et "Person"</td>
             <td></td>
         </tr>
     </tbody>
 </table>
 
+Nous venons de "dire" à KL que "Tim Berner Lee" est une _"Person"_ en ayant défini "Person" comme un __Type__ au préalable (puis en associa l'un à l'autre)   
+Nous allons maitenant "dire" à KL que W3C est une _"Organization"_ en faisant l'inverse ; c'est à dire en définissant un lien "is a" entre les 2.
+
 Classifier/type un __Item__ (Implicitement)
 -
+
+Créer un nouvel __Item__ nommé _Organzation_ (En utilisant la fonction vu précédement "Créer un Item")
+Liste des étapes :
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Result</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cliquer sur l'Item "Organization"/</td>
+            <td>Un menu apparait</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Faire glisser "W3C" sur "Organization"</td>
+            <td>Un Link - quelquonque - (dit "simple link") est créé entre "W3C" et "Organization"</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cliquer sur lien qui vient d'être créé"</td>
+            <td>Un menu apparait</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Selection l'option "W3C i as Organization"</td>
+            <td>"L'Item "Organization" est "de facto" défini comme étant un Type</td>
+            <td>Ce que vous pouvez vérifier en cliquant du "Organization", puis menu "Show all properties" et regardez l'interupteur "Is a type" qui doit être activé</td>
+        </tr>
+    </tbody>
+</table>
