@@ -12,7 +12,7 @@ Ci-après une synthèse du programme proposé par cette page :
         <tr>
             <th>Fonction</th>
             <th>KeepLink Mode</th>
-            <th>Jeux de données</th>
+            <th>Jeu de données</th>
         </tr>
     </thead>
     <tbody>
