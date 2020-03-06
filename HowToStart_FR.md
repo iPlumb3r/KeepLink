@@ -371,9 +371,13 @@ Liste des étapes :
     </tbody>
 </table>
 
+Voilà un mini-modèle qui peut être étendu à loisir ou bien adapté en fonction des besoins de chaque application ...
 
 Pour allez plus loin...
 -
+KL supporte la fonctionnalité de multi-typing, ce qui signifi qu'il est possible par exemple : 
+* De créer un Item "Universi
+
 Il existe dans KL des fonctionnalités qui permettent de faire des calcul avec les propriété et/ou de propager des propriété le long de certaine séamntique de liens ...
 
 (To Be Completed)
