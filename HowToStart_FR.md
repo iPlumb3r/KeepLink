@@ -370,3 +370,11 @@ Liste des étapes :
         </tr>
     </tbody>
 </table>
+
+
+Pour allez plus loin...
+-
+Il existe dans KL des fonctionnalités qui permettent de faire des calcul avec les propriété et/ou de propager des propriété le long de certaine séamntique de liens ...
+
+(To Be Completed)
+
