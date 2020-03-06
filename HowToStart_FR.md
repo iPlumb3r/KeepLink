@@ -311,9 +311,9 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Ouvrir le menu "Tools / Design / Property / Text" et appuyer sur "+"</td>
-            <td>Un champ "Name of the new Text" apparait</td>
-            <td></td>
+            <td>Ouvrir le menu "Tools / Design / Properties / Dates" et appuyer sur "+"</td>
+            <td>Un champ "Name of the new Date" apparait</td>
+            <td>On aurait pu tout aussi bien créer un autre type de Property : Text, Number, ... </td>
         </tr>
         <tr>
             <td>Entrer "birth date" et appuyer sur "OK"</td>
@@ -327,14 +327,14 @@ Liste des étapes :
         </tr>
         <tr>
             <td>Sélectionner "Tim Berner Lee" (dans la barre d'historique par exemple)</td>
-            <td>L'Item "Tim Berner Lee" devient le context courant et on peut constater qu'un Property "birth date "est disponible dans la liste des prorpiétes</td>
+            <td>L'Item "Tim Berner Lee" devient le contexte courant et on peut constater qu'une Property "birth date "est disponible dans la liste de ses propriétés</td>
             <td></td>
         </tr>
 
     </tbody>
 </table>
 
-################
+
 Définir une Property sur un Type de Link
 -
 
@@ -349,7 +349,7 @@ Définir une Property sur un Type de Link
     </thead>
     <tbody>
         <tr>
-            <td>Ouvrir le menu "Tools / Design / Property / Text" et appuyer sur "+"</td>
+            <td>Ouvrir le menu "Tools / Design / Properties / Dates" et appuyer sur "+"</td>
             <td>Un champ "Name of the new Text" apparait</td>
             <td></td>
         </tr>
@@ -359,15 +359,14 @@ Définir une Property sur un Type de Link
             <td></td>
         </tr>
         <tr>
-            <td>Faire glisser la Property  "birth date" sur le Type d'Item "Person"</td>
-            <td>Un lien ("birth date" defines "Person") est créé</td>
+            <td>Faire glisser la Property  "birth date" sur le Type d'Linf "affiliated to"</td>
+            <td>Un lien ("hiring date" defines "affiliated to") est créé</td>
             <td></td>
         </tr>
         <tr>
             <td>Sélectionner "Tim Berner Lee" (dans la barre d'historique par exemple)</td>
-            <td>L'Item "Tim Berner Lee" devient le context courant et on peut constater qu'un Property "birth date "est disponible dans la liste des prorpiétes</td>
+            <td>L'Item "Tim Berner Lee" devient le contexte courant et on peut constater qu'uen Property "hiring date "est disponible sur le lien entre "Tim Berner Lee" et "W3C"</td>
             <td></td>
         </tr>
-
     </tbody>
 </table>
