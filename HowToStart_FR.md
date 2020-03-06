@@ -197,7 +197,7 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Cliquer sur l'Item "Organization"/</td>
+            <td>Cliquer sur l'Item "Organization"</td>
             <td>Un menu apparait</td>
             <td></td>
         </tr>
@@ -218,3 +218,4 @@ Liste des étapes :
         </tr>
     </tbody>
 </table>
+
