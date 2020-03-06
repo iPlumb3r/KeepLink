@@ -15,8 +15,9 @@ Liste des fonctions présentées sur cette page :
 * Définir une __Property__ sur un __Type__ d'__Item__
 * Définir une __Property__ sur un __Type__ de __Link__
 
-Cliquer sur le boutton "Home" pour commencer ...   
 __Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
+
+Cliquer sur le boutton "Home" pour commencer ...   
 
 Créer un __Item__
 -
