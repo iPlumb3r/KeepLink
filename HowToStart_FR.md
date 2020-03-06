@@ -136,20 +136,20 @@ Liste des étapes :
     </tbody>
 </table>
 
-C'est la base de la navigation dans KL, on passe d'un contexte l'autre ...
-... et à chaque fois on peux visualiser les éléments de ce contexte.
+C'est la base de la navigation dans KL, on passe d'un contexte l'autre ...   
+... et à chaque fois on peux visualiser les __Items__ associé à ce contexte.
 
-Le contexte courant s'affiche en haut (juste en dessous de la barre d'historique ...
-... et ses éléments s'affiche en dessous. Et pour chaque élément : 
-* La partie "3/4 droite" (qui contient du texte) représente l'élément lui-même
-* La partie "1/4 gauche" (qui contient un icone) représente le lien entre l'élement du contexte et cet élement
-Le nom 
+Le contexte courant s'affiche en haut (juste en dessous de la barre d'historique ...   
+... et ses __Items__ s'affiche en dessous. Et pour chaque __Item__ : 
+* La partie "3/4 droite" (qui contient du texte) représente l'__Item__ lui-même
+* La partie "1/4 gauche" (qui contient un icone) représente le __Link__ entre l'__Item__ du contexte et cet __Item__
+La semantique du lien entre l'__Item__ "source" et l'__Item__ "cible" apparait entre ces 2 parties
 
 Classifier/type un __Item__ (Explicitement)
 -
-Créer un nouvel __Item__ nommé _Person_ (En utilisant la fonction vu précédement "Créer un Item")
+Créer un nouvel __Item__ nommé _Person_ (En utilisant la fonction vu précédement "Créer un __Item__")
 
-__Remarque :__ Pour cette étape, il est bécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Advanced"
+__Remarque :__ Pour cette étape, il est nécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Advanced"
 
 Liste des étapes :
 <table>
@@ -184,13 +184,13 @@ Liste des étapes :
     </tbody>
 </table>
 
-Nous venons de "dire" à KL que "Tim Berner Lee" est une _"Person"_ en ayant défini "Person" comme un __Type__ au préalable (puis en associa l'un à l'autre)   
-Nous allons maitenant "dire" à KL que W3C est une _"Organization"_ en faisant l'inverse ; c'est à dire en définissant un lien "is a" entre les 2.
+Nous venons de "dire" à KL que "Tim Berner Lee" est une _"Person"_ en ayant défini "Person" comme un __Type__ au préalable (puis en ayant associé l'un à l'autre)   
+Nous allons maintenant "dire" à KL que W3C est une _"Organization"_ en faisant l'inverse ; c'est à dire en définissant un lien "is a" entre les 2 (c-a-d sans définir explicitement que _"Organization"_ est un __Type__).
 
 Classifier/typer un __Item__ (Implicitement)
 -
 
-Créer un nouvel __Item__ nommé _Organzation_ (En utilisant la fonction vu précédement "Créer un Item")
+Créer un nouvel __Item__ nommé _Organzation_ (En utilisant la fonction vu précédement "Créer un __Item__")
 Liste des étapes :
 <table>
     <thead>
@@ -208,7 +208,7 @@ Liste des étapes :
         </tr>
         <tr>
             <td>Faire glisser "W3C" sur "Organization"</td>
-            <td>Un Link - quelquonque - (dit "simple link") est créé entre "W3C" et "Organization"</td>
+            <td>Un Link - quelconque - (dit "simple link") est créé entre "W3C" et "Organization"</td>
             <td></td>
         </tr>
         <tr>
@@ -217,9 +217,9 @@ Liste des étapes :
             <td></td>
         </tr>
         <tr>
-            <td>Selection l'option "W3C i as Organization"</td>
-            <td>"L'Item "Organization" est "de facto" défini comme étant un Type</td>
-            <td>Ce que vous pouvez vérifier en cliquant du "Organization", puis menu "Show all properties" et regardez l'interupteur "Is a type" qui doit être activé</td>
+            <td>Sélectionner l'option "W3C i as Organization"</td>
+            <td>L'Item "Organization" est "de facto" défini comme étant un Type</td>
+            <td>Ce que vous pouvez vérifier en cliquant du "Organization", puis menu "Show all properties" et regardez l'interrupteur "Is a type" qui doit être activé</td>
         </tr>
     </tbody>
 </table>
