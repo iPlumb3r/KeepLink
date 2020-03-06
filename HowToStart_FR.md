@@ -107,7 +107,7 @@ Liste des étapes :
     </tbody>
 </table>
 
-__Remarque__ : Lorsqu'on crée un __Link__ dans KL, il n'a pas - par defaut - de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que :
+__Remarque__ : Lorsqu'on crée un __Link__ dans KL, il n'a pas - par défaut - de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que :
 * Tim Berner Lee _is affiliated to_ W3C   
 Oui que, dit "à l'envers" :   
 * W3C _affiliates_ Tim Berner Lee
@@ -144,12 +144,12 @@ C'est la base de la navigation dans KL, on passe d'un contexte l'autre ...
 Le contexte courant s'affiche en haut (juste en dessous de la barre d'historique ...   
 ... et ses __Items__ s'affiche en dessous. Et pour chaque __Item__ : 
 * La partie "3/4 droite" (qui contient du texte) représente l'__Item__ lui-même
-* La partie "1/4 gauche" (qui contient un icone) représente le __Link__ entre l'__Item__ du contexte et cet __Item__
-La semantique du lien entre l'__Item__ "source" et l'__Item__ "cible" apparait entre ces 2 parties
+* La partie "1/4 gauche" (qui contient un icône) représente le __Link__ entre l'__Item__ du contexte et cet __Item__
+La sémantique du lien entre l'__Item__ "source" et l'__Item__ "cible" apparait entre ces 2 parties
 
 Classifier/type un __Item__ (Explicitement)
 -
-Créer un nouvel __Item__ nommé _Person_ (En utilisant la fonction vu précédement "Créer un __Item__")
+Créer un nouvel __Item__ nommé _Person_ (En utilisant la fonction vu précédemment "Créer un __Item__")
 
 __Remarque :__ Pour cette étape, il est nécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Advanced"
 
@@ -192,7 +192,7 @@ Nous allons maintenant "dire" à KL que W3C est une _"Organization"_ en faisant 
 Classifier/typer un __Item__ (Implicitement)
 -
 
-Créer un nouvel __Item__ nommé _Organzation_ (En utilisant la fonction vu précédement "Créer un __Item__")
+Créer un nouvel __Item__ nommé _Organzation_ (En utilisant la fonction vu précédemment "Créer un __Item__")
 Liste des étapes :
 <table>
     <thead>
@@ -287,7 +287,7 @@ Liste des étapes :
         </tr>
         <tr>
             <td>Choisir la sémantique "Tim Berner Lee" affiliated to "W3C</td>
-            <td>KL sait maintenant que TBL travaile pour le W3C ;-)</td>
+            <td>KL sait maintenant que TBL travaille pour le W3C ;-)</td>
             <td></td>
         </tr>
         <tr>
@@ -365,7 +365,7 @@ Liste des étapes :
         </tr>
         <tr>
             <td>Sélectionner "Tim Berner Lee" (dans la barre d'historique par exemple)</td>
-            <td>L'Item "Tim Berner Lee" devient le contexte courant et on peut constater qu'uen Property "hiring date "est disponible sur le lien entre "Tim Berner Lee" et "W3C"</td>
+            <td>L'Item "Tim Berner Lee" devient le contexte courant et on peut constater qu'une Property "hiring date "est disponible sur le lien entre "Tim Berner Lee" et "W3C"</td>
             <td></td>
         </tr>
     </tbody>
