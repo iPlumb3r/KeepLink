@@ -29,8 +29,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
@@ -54,11 +54,11 @@ Liste des étapes :
 
 Répéter cette opération pour un 2nd __Item__ (ex : "W3C")
 
-__Remarque__ : Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" entout cas), il n'a pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
+__Remarque__ : Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" en tout cas), il n'a pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
 * _Tim Berner Lee_ est une _Person_
 * _W3C_ est une _Organization_
 
-Maitenant que nous avons 2 __Items__ dans KL, nous allons pouvoir les relier avec un __Link__ ...
+Maintenant que nous avons 2 __Items__ dans KL, nous allons pouvoir les relier avec un __Link__ ...
 
 Créer un __Link__
 -
@@ -68,8 +68,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaires</th>
         </tr>
     </thead>
     <tbody>
@@ -89,8 +89,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
@@ -120,8 +120,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
@@ -158,8 +158,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
@@ -198,8 +198,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
@@ -235,8 +235,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
@@ -305,8 +305,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
@@ -343,8 +343,8 @@ Liste des étapes :
     <thead>
         <tr>
             <th>Action</th>
-            <th>Result</th>
-            <th>Comment</th>
+            <th>Resultat</th>
+            <th>Commentaire</th>
         </tr>
     </thead>
     <tbody>
