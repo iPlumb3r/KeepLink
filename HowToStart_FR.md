@@ -3,12 +3,13 @@ Comment démarrer avec KeepLink (KL) ?
 
 Cette page explique comment démarrer avec KL sur la base d'un exemple basique, mais fait appel à toutes les fonctionnalitées nécessaires à la création d'application plus élaborées.
 
-__Remarque :__ Les concepts clef de KL (__Item, Link, Type, Property__) sont volontairement nommé en Anglais (et en __gras__) et les concepts du modèle que l'on va construire sont volontairement en Anglais (et en _italique_) 
+__Remarque :__ Les concepts clefs de KL (__Item, Link, Type, Property__) sont volontairement nommés en Anglais (et en __gras__) et les concepts du modèle que l'on va construire sont volontairement nommés en Anglais (et en _italique_) 
 
 List des fonctions :
 * Créer un Item
 * Créer un Link
 * Naviguer un Link
+* Classifier/typer un Item
 
 Cliquer sur le boutton "Home" pour commencer ...
 
@@ -103,6 +104,41 @@ Oui que, dit "à l'envers" :
 * W3C _affiliates_ Tim Berner Lee
 
 Naviguer un __Link__
+-
+
+Liste des étapes :
+<table>
+    <thead>
+        <tr>
+            <th>Action</th>
+            <th>Result</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Cliquer sur "Tim Berner Lee"</td>
+            <td>Il devient le nouveau contexte à la place de "Home" ; et on vois qu'il est relié à "W3C"</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Cliquer sur "W3C"</td>
+            <td>Il devient le nouveau contexte à la place de "Tim Berner Lee" ; et on vois qu'il est relié à ce dernier</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+C'est la base de la navigation dans KL, on passe d'un contexte l'autre ...
+... et à chaque fois on peux visualiser les éléments de ce contexte.
+
+Le contexte courant s'affiche en haut (juste en dessous de la barre d'historique ...
+... et ses éléments s'affiche en dessous. Et pour chaque élément : 
+* La partie "3/4 droite" (qui contient du texte) représente l'élément lui-même
+* La partie "1/4 gauche" (qui contient un icone) représente le lien entre l'élement du contexte et cet élement
+Le nom 
+
+Classifier/type un __Item__
 -
 
 Liste des étapes :
