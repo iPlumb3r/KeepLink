@@ -10,6 +10,8 @@ KL utilise essentiellement les 3 __concepts__ suivants :
 * Le __Lien__ => Link
 * Et le __Type__ => Type
 
+Concepts dérivés
+-
 Le concept de __Type__ pouvant se combiner avec __Item__ et __Lien__, on obtient les __concepts__  suivants : 
 * Le __Type d'Item__ => Item Type
 * Le __Type de Lien__ => Link Type
