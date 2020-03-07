@@ -69,9 +69,9 @@ Remarque 2 : Dans cette section, la différence est faite entre :
             <td>Individual</td>
             <td>Predicat (Between a Subject & an Object)</td>
             <td>Class</td>
-            <td>ObjectProperty</td>
+            <td>Object Property</td>
             <td>Thing</td>
-            <td>DatatypeProperty</td>         
+            <td>Datatype Property</td>         
         </tr>
         <tr>
             <td>Topic Maps (Semantic Web)</td>
