@@ -68,9 +68,9 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
             <td>-</td>
         </tr>
         <tr>
-            <td>OWL (Semantic Web)</td>
-            <td>Individual</td>
-            <td>Predicat (Between a Subject & an Object)</td>
+            <td>RDF/RDFS (Semantic Web)</td>
+            <td>Resource (or Individual)</td>
+            <td>Predicat (Between a Resource "As a Subject" & Resource "As an Object")</td>
             <td>Class</td>
             <td>Object Property</td>
             <td>Thing</td>
