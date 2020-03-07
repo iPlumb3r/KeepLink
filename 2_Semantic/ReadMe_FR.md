@@ -38,7 +38,8 @@ Annexe
 Cette section tente de faire un parallèle entre les __concepts__ manipulés par KL ...   
 ... et ceux utilisés par d'autres paradigmes provenant d'autres disciplines (e.g. : maths, IS-IT)
 
-Remarque : Dans cette section, la différence entre __item__ (un élément particulier) et __Item__ (l'ensemble de tous les éléments particulier) est faite
+Remarque 1 : An Angamis uniquement   
+Remarque 2 : Dans cette section, la différence entre __item__ (un élément particulier) et __Item__ (l'ensemble de tous les éléments particulier) est faite
 
 
 <table>
@@ -47,24 +48,24 @@ Remarque : Dans cette section, la différence entre __item__ (un élément parti
             <th>Paradigme / Concept KL</th>
             <th>item</th>
             <th>Type</th>
-            <th>Lien / Type de Lien</th>
+            <th>Link / Link Type</th>
             <th>Item</th>
-            <th>Propriété</th>          
+            <th>Property</th>          
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Théorie des ensembles (Mathématiques)</td>
-            <td>élément</td>
-            <td>Ensemble</td>
+            <td>Set Theory (Math)</td>
+            <td>Element</td>
+            <td>Set</td>
             <td>N/A / N/A</td>
-            <td>Ensemble de tous les ensembles</td>
+            <td>Set of all Sets</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>OWL (Semantic Web)</td>
             <td>Individual</td>
-            <td>Classe</td>
+            <td>Class</td>
             <td>Predicat / ObjectProperty</td>
             <td>Thing</td>
             <td>DatatypeProperty</td>         
@@ -72,19 +73,19 @@ Remarque : Dans cette section, la différence entre __item__ (un élément parti
         <tr>
             <td>Topic Maps (Semantic Web)</td>
             <td>Topic</td>
-            <td>Type de topic</td>
+            <td>Topic Type</td>
             <td>N/A</td>
-            <td>Association /Type d'association</td>
+            <td>Association / Association TYpe</td>
             <td>N/A</td>
             <td>Occurence</td>
         </tr>
         <tr>
             <td>Langage O-O (Informatique)</td>
-            <td>Instance</td>
-            <td>Classe</td>
-            <td>Pointeur / Attribut pointant sur une instance de classe</td>
+            <td>Instance or Object</td>
+            <td>Class</td>
+            <td>Pointer / Object Attribute</td>
             <td>N/A</td>
-            <td>Attribut</td>
+            <td>Data Attribute</td>
         </tr>
     </tbody>
 </table>
