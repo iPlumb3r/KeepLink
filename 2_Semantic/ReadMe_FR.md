@@ -79,7 +79,7 @@ Remarque 2 : Dans cette section, la différence entre __item__ (un élément par
             <td>Occurence</td>
         </tr>
         <tr>
-            <td>Langage O-O (Informatique)</td>
+            <td>Langage O-O (Computer Science)</td>
             <td>Instance or Object</td>
             <td>Class</td>
             <td>Pointer / Object Attribute</td>
