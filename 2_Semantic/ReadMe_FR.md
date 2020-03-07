@@ -44,7 +44,7 @@ Cette section tente de faire un parallèle entre les __concepts__ manipulé par 
         <tr>
             <th>Paradigme / Concept KL</th>
             <th>item</th>
-            <th>Lien</th>
+            <th>Lien / Type de lien</th>
             <th>Type</th>
             <th>Item</th>
             <th>Propriété</th>          
@@ -54,26 +54,26 @@ Cette section tente de faire un parallèle entre les __concepts__ manipulé par 
         <tr>
             <td>Théorie des ensembles (Mathématiques)</td>
             <td>élément</td>
-            <td>N/A</td>
+            <td>N/A / N/A</td>
             <td>Ensemble</td>
             <td>Ensemble de tous les ensembles</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>OWL (Semantic Web)</td>
-            <td>B2</td>
-            <td>B3</td>
-            <td>B2</td>
-            <td>B3</td>
-             <td>B3</td>         
+            <td>Individual</td>
+            <td>Predicat / ObjectProperty</td>
+            <td>Class</td>
+            <td>Thing</td>
+            <td>DatatypeProperty</td>         
         </tr>
         <tr>
             <td>Topic Maps (Semantic Web)</td>
-            <td>B2</td>
-            <td>B3</td>
-            <td>B2</td>
-            <td>B3</td>
-            <td>B3</td>
+            <td>Topic</td>
+            <td>Association /Type d'association</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Occurence</td>
         </tr>
     </tbody>
 </table>
