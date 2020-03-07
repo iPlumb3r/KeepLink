@@ -99,9 +99,9 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
         </tr>
         <tr>
             <td>BORO (Data Modeling)</td>
-            <td>particular things</td>
-            <td>relashionships between things</td>
-            <td>general types of things</td>
+            <td>a particular thing</td>
+            <td>a relashionship between things</td>
+            <td>a general type of things</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
