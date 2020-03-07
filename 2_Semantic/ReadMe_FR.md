@@ -46,8 +46,8 @@ Remarque : Dans cette section, la différence entre __item__ (un élément parti
         <tr>
             <th>Paradigme / Concept KL</th>
             <th>item</th>
-            <th>Lien / Type de Lien</th>
             <th>Type</th>
+            <th>Lien / Type de Lien</th>
             <th>Item</th>
             <th>Propriété</th>          
         </tr>
@@ -56,32 +56,33 @@ Remarque : Dans cette section, la différence entre __item__ (un élément parti
         <tr>
             <td>Théorie des ensembles (Mathématiques)</td>
             <td>élément</td>
-            <td>N/A / N/A</td>
             <td>Ensemble</td>
+            <td>N/A / N/A</td>
             <td>Ensemble de tous les ensembles</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>OWL (Semantic Web)</td>
             <td>Individual</td>
-            <td>Predicat / ObjectProperty</td>
             <td>Classe</td>
+            <td>Predicat / ObjectProperty</td>
             <td>Thing</td>
             <td>DatatypeProperty</td>         
         </tr>
         <tr>
             <td>Topic Maps (Semantic Web)</td>
             <td>Topic</td>
-            <td>Association /Type d'association</td>
+            <td>Type de topic</td>
             <td>N/A</td>
+            <td>Association /Type d'association</td>
             <td>N/A</td>
             <td>Occurence</td>
         </tr>
         <tr>
             <td>Langage O-O (Informatique)</td>
             <td>Instance</td>
-            <td>Pointeur</td>
             <td>Classe</td>
+            <td>Pointeur / Attribut pointant sur une instance de classe</td>
             <td>N/A</td>
             <td>Attribut</td>
         </tr>
