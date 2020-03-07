@@ -44,7 +44,7 @@ Cette section tente de faire un parallèle entre les __concepts__ manipulé par 
         <tr>
             <th>Paradigme / Concept KL</th>
             <th>item</th>
-            <th>Lien / Type de lien</th>
+            <th>Lien / Type de Lien</th>
             <th>Type</th>
             <th>Item</th>
             <th>Propriété</th>          
@@ -63,7 +63,7 @@ Cette section tente de faire un parallèle entre les __concepts__ manipulé par 
             <td>OWL (Semantic Web)</td>
             <td>Individual</td>
             <td>Predicat / ObjectProperty</td>
-            <td>Class</td>
+            <td>Classe</td>
             <td>Thing</td>
             <td>DatatypeProperty</td>         
         </tr>
@@ -74,6 +74,14 @@ Cette section tente de faire un parallèle entre les __concepts__ manipulé par 
             <td>N/A</td>
             <td>N/A</td>
             <td>Occurence</td>
+        </tr>
+        <tr>
+            <td>Langage O-O (Informatique)</td>
+            <td>Instance</td>
+            <td>Pointeur</td>
+            <td>Classe</td>
+            <td>N/A</td>
+            <td>Attribut</td>
         </tr>
     </tbody>
 </table>
