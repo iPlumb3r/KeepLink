@@ -51,7 +51,7 @@ _Remarque 2_ : Contenu du tableau en Anglais uniquement pour rester fidèle aux 
             <th>item</th>
             <th>Link</th>
             <th>Type</th>
-            <th>Link Type (TYpe "applied to "Link")</th>
+            <th>Link Type (Type "applied to "Link")</th>
             <th>Item</th>
             <th>Property</th>
             <th>Comment</th>    
