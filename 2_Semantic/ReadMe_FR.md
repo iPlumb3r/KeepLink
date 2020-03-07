@@ -50,8 +50,8 @@ _Remarque 2_ : Contenu du tableau en Anglais uniquement pour rester fidèle aux 
             <th>KL Concepts / Others Paradigms</th>
             <th>item</th>
             <th>Link</th>
-            <th>Type (= Item Type)</th>
-            <th>Link Type</th>
+            <th>Type</th>
+            <th>Link Type (TYpe "applied to "Link")</th>
             <th>Item</th>
             <th>Property</th>
             <th>Comment</th>    
