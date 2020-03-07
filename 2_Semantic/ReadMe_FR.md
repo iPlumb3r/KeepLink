@@ -1,7 +1,7 @@
 Sémantique
 ==
 
-Quelques mots sur les __concepts__ (de base et dérivé) que KeepLink utilise
+Quelques mots sur les __concepts__ (de base et dérivés) que KeepLink utilise
 
 Concepts de base
 -
