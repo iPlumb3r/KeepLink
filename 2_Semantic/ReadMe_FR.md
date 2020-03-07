@@ -38,10 +38,11 @@ Annexe
 Cette section tente de faire un parallèle entre les __concepts__ manipulés par KL ...   
 ... et ceux utilisés par d'autres paradigmes provenant d'autres disciplines    
 (e.g. : mathématiques, web sémantique, théories des graphes, informatique, ...)
-
-_Remarque 1_ : En Anglais uniquement   
-_Remarque 2_ : Dans cette section, la différence est faite entre : 
+  
+_Remarque 1_ : Dans cette section, la différence est faite entre : 
 * __item__ (un élément particulier de __Item__) et __Item__ (l'ensemble de tous les __items__ particuliers) 
+
+_Remarque 2_ : Contenu du tableau en Anglais uniquement pour rester fidèle aux litératures d'origine 
 
 <table>
     <thead>
