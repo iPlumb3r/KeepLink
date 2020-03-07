@@ -39,8 +39,8 @@ Cette section tente de faire un parallèle entre les __concepts__ manipulés par
 ... et ceux utilisés par d'autres paradigmes provenant d'autres disciplines (e.g. : maths, IS-IT)
 
 Remarque 1 : An Angamis uniquement   
-Remarque 2 : Dans cette section, la différence entre __item__ (un élément particulier) et __Item__ (l'ensemble de tous les éléments particulier) est faite
-
+Remarque 2 : Dans cette section, la différence est faite entre : 
+* __item__ (un élément particulier de __Item__) et __Item__ (l'ensemble de tous les __item__ particulier) 
 
 <table>
     <thead>
