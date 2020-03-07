@@ -58,8 +58,8 @@ Remarque 2 : Dans cette section, la différence est faite entre :
         <tr>
             <td>Set Theory (Math)</td>
             <td>Element</td>
-            <td>Set</td>
             <td>N/A</td>
+            <td>Set</td>
             <td>N/A</td>
             <td>Set of all Sets</td>
             <td>N/A</td>
