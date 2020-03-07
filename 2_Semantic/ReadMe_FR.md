@@ -51,7 +51,8 @@ Remarque 2 : Dans cette section, la différence est faite entre :
             <th>Type</th>
             <th>Link Type</th>
             <th>Item</th>
-            <th>Property</th>          
+            <th>Property</th>
+            <th>Comment</th>    
         </tr>
     </thead>
     <tbody>
@@ -63,6 +64,7 @@ Remarque 2 : Dans cette section, la différence est faite entre :
             <td>N/A</td>
             <td>Set of all Sets</td>
             <td>N/A</td>
+            <td>-</td>
         </tr>
         <tr>
             <td>OWL (Semantic Web)</td>
@@ -71,7 +73,8 @@ Remarque 2 : Dans cette section, la différence est faite entre :
             <td>Class</td>
             <td>Object Property</td>
             <td>Thing</td>
-            <td>Datatype Property</td>         
+            <td>Datatype Property</td>    
+            <td>-</td>   
         </tr>
         <tr>
             <td>Topic Maps (Semantic Web)</td>
@@ -81,14 +84,26 @@ Remarque 2 : Dans cette section, la différence est faite entre :
             <td>Association Type</td>
             <td>N/A</td>
             <td>Occurence</td>
+            <td>TM has also Role</td>   
         </tr>
         <tr>
-            <td>Langage O-O (Computer Science)</td>
+            <td>Grakn (Graph Database)</td>
+            <td>???</td>
+            <td>???</td>
+            <td>Entities</td>
+            <td>Relations</td>
+            <td>N/A</td>
+            <td>Resources</td>
+            <td>Grakn has also Role</td>   
+        </tr>
+        <tr>
+            <td>O-O Language (Computer Science)</td>
             <td>Object (or Instance)</td>
             <td>Pointer</td>
             <td>Class</td>
             <td>Object Attribute</td>
             <td>N/A</td>
+            <td>Data Attribute</td>
             <td>Data Attribute</td>
         </tr>
     </tbody>
