@@ -68,6 +68,16 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
             <td>-</td>
         </tr>
         <tr>
+            <td>BORO (Data Modeling)</td>
+            <td>a particular thing</td>
+            <td>a relashionship between things</td>
+            <td>a general type of things</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Has also : changes happenning to things</td>
+        </tr>
+        <tr>
             <td>RDF/RDFS (Semantic Web)</td>
             <td>Resource (or Individual)</td>
             <td>Predicat (Between a Resource "As a Subject" & Resource "As an Object")</td>
@@ -96,16 +106,6 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
             <td>N/A</td>
             <td>Resource</td>
             <td>Has also : Role</td>   
-        </tr>
-        <tr>
-            <td>BORO (Data Modeling)</td>
-            <td>a particular thing</td>
-            <td>a relashionship between things</td>
-            <td>a general type of things</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>N/A</td>
-            <td>Has also : changes happenning to things</td>
         </tr>
         <tr>
             <td>O-O Language (Computer Science)</td>
