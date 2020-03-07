@@ -32,3 +32,49 @@ En tout rigueur, on doit distinguer :
 Illustration
 -
 ![ConceptModel](https://github.com/iPlumb3r/KeepLink/blob/master/images/ConceptualModel%40KeepLink.png)
+
+Annexe
+-
+Cette section tente de faire un parallèle entre les __concepts__ manipulé par KL ...   
+... et ceux utilisé par d'autre paradigmes classique en matière de système d'information
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Paradigme / Concept KL</th>
+            <th>item</th>
+            <th>Lien</th>
+            <th>Type</th>
+            <th>Item</th>
+            <th>Propriété</th>          
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Théorie des ensembles (Mathématiques)</td>
+            <td>élément</td>
+            <td>N/A</td>
+            <td>Ensemble</td>
+            <td>Ensemble de tous les ensembles</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>OWL (Semantic Web)</td>
+            <td>B2</td>
+            <td>B3</td>
+            <td>B2</td>
+            <td>B3</td>
+             <td>B3</td>         
+        </tr>
+        <tr>
+            <td>Topic Maps (Semantic Web)</td>
+            <td>B2</td>
+            <td>B3</td>
+            <td>B2</td>
+            <td>B3</td>
+            <td>B3</td>
+        </tr>
+    </tbody>
+</table>
+
