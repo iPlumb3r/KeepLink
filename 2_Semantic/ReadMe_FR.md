@@ -1,11 +1,11 @@
 Sémantique
 ==
 
-Quelques mots sur les concepts de base que KeepLink utilise
+Quelques mots sur les __concepts__ (de base et dérivé) que KeepLink utilise
 
 Concepts de base
 -
-KL utilise essentiellement les 3 __concepts__ suivants : 
+A la base, KL utilise essentiellement les 3 __concepts__ suivants : 
 * l'__Item__ => Item
 * Le __Lien__ => Link
 * Et le __Type__ => Type
