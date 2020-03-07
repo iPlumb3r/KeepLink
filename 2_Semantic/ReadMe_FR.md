@@ -47,8 +47,9 @@ Remarque 2 : Dans cette section, la différence est faite entre :
         <tr>
             <th>Concept / KL Paradigme</th>
             <th>item</th>
+            <th>link</th>
             <th>Type</th>
-            <th>Link / Link Type</th>
+            <th>Link Type</th>
             <th>Item</th>
             <th>Property</th>          
         </tr>
@@ -58,31 +59,35 @@ Remarque 2 : Dans cette section, la différence est faite entre :
             <td>Set Theory (Math)</td>
             <td>Element</td>
             <td>Set</td>
-            <td>N/A / N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
             <td>Set of all Sets</td>
             <td>N/A</td>
         </tr>
         <tr>
             <td>OWL (Semantic Web)</td>
             <td>Individual</td>
+            <td>Predicat (Between a Subject & an Object)</td>
             <td>Class</td>
-            <td>Predicat / ObjectProperty</td>
+            <td>ObjectProperty</td>
             <td>Thing</td>
             <td>DatatypeProperty</td>         
         </tr>
         <tr>
             <td>Topic Maps (Semantic Web)</td>
             <td>Topic</td>
+            <td>Association</td>
             <td>Topic Type</td>
-            <td>Association / Association TYpe</td>
+            <td>Association Type</td>
             <td>N/A</td>
             <td>Occurence</td>
         </tr>
         <tr>
             <td>Langage O-O (Computer Science)</td>
             <td>Instance or Object</td>
+            <td>Pointer</td
             <td>Class</td>
-            <td>Pointer / Object Attribute</td>
+            <td>Object Attribute</td>
             <td>N/A</td>
             <td>Data Attribute</td>
         </tr>
