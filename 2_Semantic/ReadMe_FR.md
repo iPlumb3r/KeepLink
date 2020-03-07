@@ -5,7 +5,7 @@ Quelques mots sur les concepts de base que KeepLink utilise
 
 Concepts de base
 -
-KL utilise essentilement les 3 concepts suivants : 
+KL utilise assentiellement les 3 __concepts__ suivants : 
 * l'__Item__
 * Le __Lien__
 * Et le __Type__
