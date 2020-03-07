@@ -95,7 +95,17 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
             <td>Relation</td>
             <td>N/A</td>
             <td>Resource</td>
-            <td>Grakn has also Role</td>   
+            <td>Has also : Role</td>   
+        </tr>
+        <tr>
+            <td>BORO (Data Modeling)</td>
+            <td>particular things</td>
+            <td>relashionships between things</td>
+            <td>general types of things</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>N/A</td>
+            <td>Has also : changes happenning to things</td>
         </tr>
         <tr>
             <td>O-O Language (Computer Science)</td>
