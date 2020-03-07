@@ -94,7 +94,7 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
             <td>Entities</td>
             <td>Relations</td>
             <td>N/A</td>
-            <td>Resources</td>
+            <td>Resource</td>
             <td>Grakn has also Role</td>   
         </tr>
         <tr>
@@ -105,7 +105,7 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
             <td>Object Attribute</td>
             <td>N/A</td>
             <td>Data Attribute</td>
-            <td>Data Attribute</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
