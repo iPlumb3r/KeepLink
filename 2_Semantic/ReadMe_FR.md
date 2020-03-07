@@ -45,7 +45,7 @@ Remarque 2 : Dans cette section, la différence est faite entre :
 <table>
     <thead>
         <tr>
-            <th>KL Concepts => / Others Paradigms</th>
+            <th>KL Concepts / Others Paradigms</th>
             <th>item</th>
             <th>link</th>
             <th>Type</th>
