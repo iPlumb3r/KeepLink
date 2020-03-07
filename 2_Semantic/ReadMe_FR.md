@@ -91,8 +91,8 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
             <td>Grakn (Graph Database)</td>
             <td>???</td>
             <td>???</td>
-            <td>Entities</td>
-            <td>Relations</td>
+            <td>Entity</td>
+            <td>Relation</td>
             <td>N/A</td>
             <td>Resource</td>
             <td>Grakn has also Role</td>   
