@@ -36,7 +36,8 @@ Illustration
 Annexe
 -
 Cette section tente de faire un parallèle entre les __concepts__ manipulés par KL ...   
-... et ceux utilisés par d'autres paradigmes provenant d'autres disciplines (e.g. : maths, IS-IT)
+... et ceux utilisés par d'autres paradigmes provenant d'autres disciplines    
+(e.g. : mathématiques, web sémantique, théories des graphes, informatique, ...)
 
 Remarque 1 : An Anglais uniquement   
 Remarque 2 : Dans cette section, la différence est faite entre : 
