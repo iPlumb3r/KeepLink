@@ -45,7 +45,7 @@ Remarque 2 : Dans cette section, la différence entre __item__ (un élément par
 <table>
     <thead>
         <tr>
-            <th>Paradigme / Concept KL</th>
+            <th>Concept / KL Paradigme</th>
             <th>item</th>
             <th>Type</th>
             <th>Link / Link Type</th>
@@ -90,3 +90,27 @@ Remarque 2 : Dans cette section, la différence entre __item__ (un élément par
     </tbody>
 </table>
 
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Concept / KL Paradigme</th>
+            <th>item</th>
+            <th>Type</th>
+            <th>Link / Link Type</th>
+            <th>Item</th>
+            <th>Property</th>          
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Set Theory (Math)</td>
+            <td>Element</td>
+            <td>Set</td>
+            <td>N/A / N/A</td>
+            <td>Set of all Sets</td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+</table>
