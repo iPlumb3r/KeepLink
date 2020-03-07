@@ -112,5 +112,13 @@ Remarque 2 : Dans cette section, la différence entre __item__ (un élément par
             <td>Set of all Sets</td>
             <td>N/A</td>
         </tr>
+        <tr>
+            <td>OWL (Semantic Web)</td>
+            <td>Individual</td>
+            <td>Class</td>
+            <td>Predicat / ObjectProperty</td>
+            <td>Thing</td>
+            <td>DatatypeProperty</td>         
+        </tr>
     </tbody>
 </table>
