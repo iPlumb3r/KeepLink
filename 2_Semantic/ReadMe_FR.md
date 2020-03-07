@@ -38,6 +38,8 @@ Annexe
 Cette section tente de faire un parallèle entre les __concepts__ manipulé par KL ...   
 ... et ceux utilisé par d'autre paradigmes classique en matière de système d'information
 
+Remarque : Dans cette section, la différence entre __item__ (un élément particulier) et __Item__ (l'ensemble de tous les éléments particulier) est faite
+
 
 <table>
     <thead>
