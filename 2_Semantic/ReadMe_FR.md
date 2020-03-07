@@ -84,7 +84,7 @@ Remarque 2 : Dans cette section, la différence est faite entre :
         </tr>
         <tr>
             <td>Langage O-O (Computer Science)</td>
-            <td>Instance or Object</td>
+            <td>Object (or Instance)</td>
             <td>Pointer</td>
             <td>Class</td>
             <td>Object Attribute</td>
