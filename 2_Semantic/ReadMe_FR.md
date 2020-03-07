@@ -69,9 +69,9 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
         </tr>
         <tr>
             <td>BORO (Data Modeling)</td>
-            <td>a particular thing</td>
-            <td>a relashionship between things</td>
-            <td>a general type of things</td>
+            <td>Topic (a particular thing)</td>
+            <td>Tuple (a relashionship between thing)</td>
+            <td>Type (a general type of things)</td>
             <td>N/A</td>
             <td>N/A</td>
             <td>N/A</td>
