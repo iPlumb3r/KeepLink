@@ -20,3 +20,6 @@ Par ailleurs, KL utilise également le __concept__ de __Proriété__ ...
 * La __Proriété d'Item__ => Item (Type) Property
 * La __Propriété de Lien__ => Link (Type) Property
 
+Illustration
+-
+![ConceptModel](https://github.com/iPlumb3r/KeepLink/blob/master/images/ConceptualModel%40KeepLink.png)
