@@ -74,7 +74,6 @@ Remarque 2 : Dans cette section, la différence entre __item__ (un élément par
             <td>Topic Maps (Semantic Web)</td>
             <td>Topic</td>
             <td>Topic Type</td>
-            <td>N/A</td>
             <td>Association / Association TYpe</td>
             <td>N/A</td>
             <td>Occurence</td>
