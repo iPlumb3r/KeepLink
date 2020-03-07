@@ -120,5 +120,14 @@ Remarque 2 : Dans cette section, la différence entre __item__ (un élément par
             <td>Thing</td>
             <td>DatatypeProperty</td>         
         </tr>
+        <tr>
+            <td>Topic Maps (Semantic Web)</td>
+            <td>Topic</td>
+            <td>Topic Type</td>
+            <td>N/A</td>
+            <td>Association / Association TYpe</td>
+            <td>N/A</td>
+            <td>Occurence</td>
+        </tr>
     </tbody>
 </table>
