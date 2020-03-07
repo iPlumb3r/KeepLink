@@ -48,7 +48,7 @@ _Remarque 2_ : Dans cette section, la différence est faite entre :
         <tr>
             <th>KL Concepts / Others Paradigms</th>
             <th>item</th>
-            <th>link</th>
+            <th>Link</th>
             <th>Type (= Item Type)</th>
             <th>Link Type</th>
             <th>Item</th>
