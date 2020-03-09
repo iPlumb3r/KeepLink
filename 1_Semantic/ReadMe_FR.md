@@ -44,5 +44,5 @@ _Remarque 1_ : Dans cette section, la différence est faite entre :
 
 _Remarque 2_ : Contenu du tableau en Anglais uniquement pour rester fidèle aux litératures d'origine 
 
-https://github.com/iPlumb3r/KeQuarks/blob/master/1_Semantic/ReadMe.md
+https://github.com/iPlumb3r/KnowledgeEngineeringParticles/tree/master/1_Semantic
 
