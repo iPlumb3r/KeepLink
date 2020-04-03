@@ -14,7 +14,7 @@ How To ...
             <td>Changer de niveau d'utilisateur</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeepLink/blob/master/5_HowTo/CreateAPackage_EN.md">Create a package</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeepLink/blob/master/5_HowTo/CreateAPackage_EN.md">Create a Package</a></td>
             <td>Créer un paquet</td>
         </tr>
     </tbody>
