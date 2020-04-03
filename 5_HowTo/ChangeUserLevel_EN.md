@@ -9,14 +9,14 @@ There is 3 "Standard" levels in KL :
 
 Another level (Packager) can be unlocked thanks to a specific "Easter Egg"
 
-How to change standard level in KL
+How to change standard level in KL ?
 -
 * Swap the bottom bar to rigth
 * Open "Settings" menu
 * Select "KeepLink level" Property
 * Choose you level
 
-How to unlock "Packager" level in KL
+How to unlock "Packager" level in KL ?
 -
 * Swap the bottom bar to rigth
 * Open "Settings / Custom settings" menu
