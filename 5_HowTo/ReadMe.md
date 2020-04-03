@@ -23,7 +23,7 @@ Collaboration features / Fonctionalités de collaboration
 -
 
 It is possible to collaborate with KL in __asynchronous__ mode :
-* Send Item : : Just 1 Item (level 0) or 1 Item and an associted list (level 0 & 1)
+* Send Item : Just 1 Item (level 0) or 1 Item and an associted list (level 0 & 1)
 * Create Package : Export 1 or several Items with a user level depth (level 0, 1, 2, ...)
 
 Rq : In the future, it will be possible to collaborate in __synchronous__ mode
