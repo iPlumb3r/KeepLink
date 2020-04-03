@@ -10,7 +10,7 @@ How To ...
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/iPlumb3r/KeepLink/blob/master/5_HowTo/ChangeLevel_EN.md">Change Level</a></td>
+            <td><a href="https://github.com/iPlumb3r/KeepLink/blob/master/5_HowTo/ChangeUserLevel_EN.md">Change User Level</a></td>
             <td>Changer de niveau d'utilisateur</td>
         </tr>
         <tr>
