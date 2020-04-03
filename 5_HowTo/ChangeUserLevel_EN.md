@@ -1,4 +1,4 @@
-How To Change Level
+How To Change User Level
 ==
 Levels in KL
 -
