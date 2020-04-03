@@ -9,14 +9,14 @@ Il existe trois niveaux "standard" dans le KL :
 
 Un autre niveau (Packager) peut être débloqué grâce à un "Oeuf de Pâques" spécifique
 
-Comment changer le niveau standard en KL
+Comment changer le niveau standard en KL ?
 -
 * Remplacer la barre inférieure par la barre droite
 * Ouvrez le menu "Paramètres".
 * Sélectionnez la propriété "KeepLink level".
 * Choisissez votre niveau
 
-Comment débloquer le niveau "Packager" dans KL
+Comment débloquer le niveau "Packager" dans KL ?
 -
 * Remplacer la barre inférieure par la barre droite
 * Ouvrez le menu "Paramètres / Paramètres personnalisés".
