@@ -1,7 +1,7 @@
 How To ? / Comment faire ?
 ==
 
-Basic features
+Basic features / Fonctionnalités basiques
 -
 
 <table>
@@ -19,7 +19,7 @@ Basic features
     </tbody>
 </table>
 
-Collaboration features
+Collaboration features / Fonctionalités de collaboration
 -
 
 It is possible to collaborate with KL in __asynchronous__ mode :
