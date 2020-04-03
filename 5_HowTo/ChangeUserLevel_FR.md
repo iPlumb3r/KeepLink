@@ -1,4 +1,4 @@
-Comment changer de niveau d'utilisateur
+Comment changer de niveau d'utilisateur ?
 ==
 Niveaux en KL
 -
@@ -23,6 +23,3 @@ Comment débloquer le niveau "Packager" dans KL
 * Cliquez sur le bouton "+".
 * Entrez "Autoriser les paquets de spectacles".
 * Cliquez sur "OK".
-
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
