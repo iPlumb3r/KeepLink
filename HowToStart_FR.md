@@ -217,7 +217,7 @@ Liste des étapes :
         </tr>
         <tr>
             <td>Cliquer l'entrée "Is a type"</td>
-            <td>L'Item "Person" est maintenant un Type/td>
+            <td>L'Item "Person" est maintenant un Type</td>
             <td></td>
         </tr>
         <tr>
