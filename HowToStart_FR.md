@@ -206,7 +206,7 @@ Liste des étapes :
     </thead>
     <tbody>
         <tr>
-            <td>Cliquer sur l'Item "Person"/</td>
+            <td>Cliquer sur l'Item "Person"</td>
             <td>Un menu apparait</td>
             <td></td>
         </tr>
@@ -234,7 +234,7 @@ Nous allons maintenant "dire" à KL que W3C est une _"Organization"_ en faisant 
 Classifier/typer un __Item__ (Implicitement)
 -
 
-Créer un nouvel __Item__ nommé _Organzation_ (En utilisant la fonction vu précédemment "Créer un __Item__")
+Créer un nouvel __Item__ nommé _Organization_ (En utilisant la fonction vu précédemment "Créer un __Item__")
 Liste des étapes :
 <table>
     <thead>
