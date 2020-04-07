@@ -61,7 +61,7 @@ Ci-après une synthèse du programme proposé par cette page :
 
 __Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Normal"
 
-Cliquer sur le boutton "Home" pour commencer ...   
+Cliquer sur le bouton "Home" pour commencer ...   
 
 Créer un __Item__
 -
