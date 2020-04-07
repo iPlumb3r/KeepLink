@@ -189,7 +189,7 @@ Le contexte courant s'affiche en haut (juste en dessous de la barre d'historique
 * La partie "1/4 gauche" (qui contient un icône) représente le __Link__ entre l'__Item__ du contexte et cet __Item__
 La sémantique du lien entre l'__Item__ "source" et l'__Item__ "cible" apparait entre ces 2 parties
 
-Classifier/type un __Item__ (Explicitement)
+Classifier/Typer un __Item__ (Explicitement)
 -
 Créer un nouvel __Item__ nommé _Person_ (En utilisant la fonction vu précédemment "Créer un __Item__")
 
@@ -231,7 +231,7 @@ Liste des étapes :
 Nous venons de "dire" à KL que "Tim Berner Lee" est une _"Person"_ en ayant défini "Person" comme un __Type__ au préalable (puis en ayant associé l'un à l'autre)   
 Nous allons maintenant "dire" à KL que W3C est une _"Organization"_ en faisant l'inverse ; c'est à dire en définissant un lien "is a" entre les 2 (c-a-d sans définir explicitement que _"Organization"_ est un __Type__).
 
-Classifier/typer un __Item__ (Implicitement)
+Classifier/Typer un __Item__ (Implicitement)
 -
 
 Créer un nouvel __Item__ nommé _Organization_ (En utilisant la fonction vu précédemment "Créer un __Item__")
@@ -261,7 +261,7 @@ Liste des étapes :
             <td></td>
         </tr>
         <tr>
-            <td>Sélectionner l'option "W3C i as Organization"</td>
+            <td>Sélectionner l'option "W3C is as Organization"</td>
             <td>L'Item "Organization" est "de facto" défini comme étant un Type</td>
             <td>Ce que vous pouvez vérifier en cliquant du "Organization", puis menu "Show all properties" et regardez l'interrupteur "Is a type" qui doit être activé</td>
         </tr>
