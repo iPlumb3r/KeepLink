@@ -45,7 +45,7 @@ Dans cet example, nous allons créer l'__Item__ nommé "Tim Berner Lee" :
 Liste des étapes (générique)
 -
 
-Cette liste décrit comment créer l'__Item__ de votre choix :
+Cette liste décrit comment créer l'__Item__ "MyItem" de votre choix :
 
 <table>
     <thead>
@@ -67,7 +67,7 @@ Cette liste décrit comment créer l'__Item__ de votre choix :
             <td>Le champ porte ce nom car le contexte courant est "Home"</td>
         </tr>
         <tr>
-            <td>Saisir le "NomDeVotreItem" dans le champ "Name of the new Home" et cliquer sur "OK"</td>
+            <td>Saisir le "MyItem" dans le champ "Name of the new Home" et cliquer sur "OK"</td>
             <td>L'Item correspondant est crée, il apparait sous "Home"</td>
             <td></td>
         </tr>
