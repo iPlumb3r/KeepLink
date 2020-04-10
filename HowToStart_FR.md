@@ -70,7 +70,8 @@ Utiliser la function <a href="https://github.com/iPlumb3r/KeepLink/blob/master/4
 
 Répéter cette opération pour crér l'__Item__ nommé "W3C"
 
-__Remarque__ : Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" en tout cas), il n'a pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
+__Remarque__ :    
+Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" en tout cas), il n'a pas de __Type__ par defaut ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
 * _Tim Berner Lee_ est une _Person_
 * _W3C_ est une _Organization_
 
