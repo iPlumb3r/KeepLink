@@ -28,7 +28,7 @@ Liste des étapes
             <td>Le champ porte ce nom car le contexte courant est "Home"</td>
         </tr>
         <tr>
-            <td>Saisir "Tim Berner Lee" dans le champ le nom de l'Item et cliquer sur "OK"</td>
+            <td>Saisir "<NomDeVotreItem>" dans le champ le nom de l'Item et cliquer sur "OK"</td>
             <td>L'Item correspondant est crée, il apprait sous "Home"</td>
             <td></td>
         </tr>
