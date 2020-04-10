@@ -8,7 +8,7 @@ Permet de créer un __Item__ "quelconque" ...
 
 Liste des étapes (example)
 -
-Dans cet example, nous allons créer l'__Item__ nommé "Tim Berner Lee"
+Dans cet example, nous allons créer l'__Item__ nommé "Tim Berner Lee" :
 
 <table>
     <thead>
@@ -45,7 +45,7 @@ Dans cet example, nous allons créer l'__Item__ nommé "Tim Berner Lee"
 Liste des étapes (générique)
 -
 
-Cette liste décrit comme créer l'__Item__ de votre choix
+Cette liste décrit comme créer l'__Item__ de votre choix :
 
 <table>
     <thead>
