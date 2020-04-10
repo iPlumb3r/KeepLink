@@ -45,7 +45,7 @@ Dans cet example, nous allons créer l'__Item__ nommé "Tim Berner Lee" :
 Liste des étapes (générique)
 -
 
-Cette liste décrit comme créer l'__Item__ de votre choix :
+Cette liste décrit comment créer l'__Item__ de votre choix :
 
 <table>
     <thead>
