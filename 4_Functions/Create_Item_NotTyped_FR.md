@@ -29,7 +29,7 @@ Liste des étapes
         </tr>
         <tr>
             <td>Saisir "NomDeVotreItem" dans le champ le nom de l'Item et cliquer sur "OK"</td>
-            <td>L'Item correspondant est crée, il apprait sous "Home"</td>
+            <td>L'Item correspondant est crée, il apparait sous "Home"</td>
             <td></td>
         </tr>
        <tr>
