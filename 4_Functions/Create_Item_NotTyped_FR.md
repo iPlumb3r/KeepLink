@@ -33,7 +33,7 @@ Liste des étapes
             <td></td>
         </tr>
        <tr>
-            <td>Optionne : Choisir une photo et cliquer sur "Close internet picture"</td>
+            <td>Optionnel : Choisir une photo et cliquer sur "Close internet picture"</td>
             <td>Et voilà !</td>
             <td>KL est un outil qui s'appui sur le visuel en permanence</td>
         </tr>
