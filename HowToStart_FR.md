@@ -68,7 +68,7 @@ Créer les __Items__
 
 Utiliser la function <a href="https://github.com/iPlumb3r/KeepLink/blob/master/4_Functions/Create_Item_NotTyped_FR.md">Créer un Item "non typé"</a> pour crér l'__Item__ nommé "Tim Berner Lee"
 
-Répéter cette opération pour crér l'__Item__ nommé "W3C"
+Répéter cette opération pour créer l'__Item__ nommé "W3C"
 
 __Remarque__ :    
 Lorsqu'on crée un __Item__ dans KL (Lorqu'on est dans le contexte "Home"), il n'a pas de __Type__ par defaut ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
