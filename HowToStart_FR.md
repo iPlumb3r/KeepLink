@@ -24,7 +24,7 @@ Ci-après une synthèse du programme proposé par cette page :
         <tr>
             <td>Créer un Link</td>
             <td>Normal</td>
-            <td>Entre "Tim Berner Lee" & "W3C"</td>
+            <td>ex : Entre "Tim Berner Lee" & "W3C"</td>
         </tr>
          <tr>
             <td>Naviguer un Link</td>
