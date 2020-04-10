@@ -28,12 +28,12 @@ Liste des étapes
             <td>Le champ porte ce nom car le contexte courant est "Home"</td>
         </tr>
         <tr>
-            <td>Saisir "<NomDeVotreItem>" dans le champ le nom de l'Item et cliquer sur "OK"</td>
+            <td>Saisir "NomDeVotreItem" dans le champ le nom de l'Item et cliquer sur "OK"</td>
             <td>L'Item correspondant est crée, il apprait sous "Home"</td>
             <td></td>
         </tr>
        <tr>
-            <td>Choisir une photo de Tim et cliquer sur "Close internet picture"</td>
+            <td>Optionne : Choisir une photo et cliquer sur "Close internet picture"</td>
             <td>Et voilà !</td>
             <td>KL est un outil qui s'appui sur le visuel en permanence</td>
         </tr>
