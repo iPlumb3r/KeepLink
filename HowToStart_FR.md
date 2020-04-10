@@ -17,7 +17,7 @@ Ci-après une synthèse du programme proposé par cette page :
     </thead>
     <tbody>
         <tr>
-            <td>Créer un Item</td>
+            <td>Créer les Items</td>
             <td>Normal</td>
             <td>ex : "Tim Berner Lee" & "W3C"</td>
         </tr>
@@ -63,38 +63,12 @@ __Remarque :__ Pour l'instant, on est en <a href="https://github.com/iPlumb3r/Ke
 
 Cliquer sur le bouton "Home" pour commencer ...   
 
-Créer un __Item__
+Créer les __Items__
 -
-Liste des étapes :
 
-<table>
-    <thead>
-        <tr>
-            <th>Action</th>
-            <th>Resultat</th>
-            <th>Commentaire</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Cliquer sur le boutton "+"</td>
-            <td>Un champ "Name of the new Home" apparait</td>
-            <td>Le champ porte ce nom car le contexte courant est "Home"</td>
-        </tr>
-        <tr>
-            <td>Saisir "Tim Berner Lee" dans le champ le nom de l'Item et cliquer sur "OK"</td>
-            <td>L'Item correspondant est crée, il apprait sous "Home"</td>
-            <td></td>
-        </tr>
-       <tr>
-            <td>Choisir une photo de Tim et cliquer sur "Close internet picture"</td>
-            <td>Et voilà !</td>
-            <td>KL est un outil qui s'appui sur le visuel en permanence</td>
-        </tr>
-    </tbody>
-</table>
+Utiliser la function <a href="https://github.com/iPlumb3r/KeepLink/blob/master/4_Functions/Create_Item_NotTyped_FR.md">Créer un Item "non typé"</a> pour crér l'__Item__ nommé "Tim Berner Lee"
 
-Répéter cette opération pour un 2nd __Item__ (ex : "W3C")
+Répéter cette opération pour crér l'__Item__ nommé "W3C"
 
 __Remarque__ : Lorsqu'on crée un __Item__ dans KL (Quand on est sous "Home" en tout cas), il n'a pas de __Type__ ; c'est à dire que KL ne sais pas (pas encore en tout cas) que : 
 * _Tim Berner Lee_ est une _Person_
