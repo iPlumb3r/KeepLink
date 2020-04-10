@@ -24,6 +24,11 @@ Dans cet example, nous allons créer l'Item nommé "Tim Berner Lee" en tant que 
             <td>Permet de créer un Item typé</td>
         </tr>
         <tr>
+            <td>Vérifier que "Personne" est un type en cliquant sur "Personne", puis menu "Show all properties"</td>
+            <td>L'interrupteur "Is a type" est rendu visible</td>
+            <td>Il doit être activé</td>
+        </tr>
+        <tr>
             <td>Cliquer sur le boutton "+"</td>
             <td>Un champ "Name of the new Personne" apparait</td>
             <td>Le champ porte ce nom car le contexte courant est "ItemType"</td>
