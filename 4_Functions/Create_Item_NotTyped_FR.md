@@ -4,7 +4,7 @@ Créer un Item "non typé"
 Description
 -
 Permet de créer un __Item__ "quelconque" ...   
-... c'est à dire qui n'est pas rattaché à un type d'__Item__ en particulier
+... c'est à dire qui n'est pas rattaché à un type d'__Item__ en particulier.
 
 Liste des étapes (example)
 -
