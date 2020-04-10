@@ -238,7 +238,7 @@ Liste des étapes :
         <tr>
             <td>Sélectionner l'option "W3C is as Organization"</td>
             <td>L'Item "Organization" est "de facto" défini comme étant un Type</td>
-            <td>Ce que vous pouvez vérifier en cliquant du "Organization", puis menu "Show all properties" et regardez l'interrupteur "Is a type" qui doit être activé</td>
+            <td>Ce que vous pouvez vérifier en cliquant sur "Organization", puis menu "Show all properties" et regardez l'interrupteur "Is a type" qui doit être activé</td>
         </tr>
     </tbody>
 </table>
