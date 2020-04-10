@@ -3,7 +3,7 @@ Créer un Item "typé"
 
 Description
 -
-Permet de créer un __Item__ qui appartient à un type d'__Item__ en particulier
+Permet de créer un __Item__ qui appartient à un type d'__Item__ en particulier.
 
 Liste des  (example)
 -
