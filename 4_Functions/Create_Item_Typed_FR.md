@@ -26,7 +26,7 @@ Dans cet example, nous allons créer l'Item nommé "Tim Berner Lee" en tant que 
         <tr>
             <td>Vérifier que "Personne" est un type en cliquant sur "Personne", puis menu "Show all properties"</td>
             <td>L'interrupteur "Is a type" est rendu visible</td>
-            <td>Il doit être activé</td>
+            <td>Il doit être activé. Sinon, activez le.</td>
         </tr>
         <tr>
             <td>Cliquer sur le boutton "+"</td>
@@ -65,6 +65,11 @@ Cette liste décrit comment créer l'__Item__ "MyItem" de votre choix à partir 
             <td>Sélectionner l'Item "MyItemType"</td>
             <td>"MyItemType" devient le contexte courant</td>
             <td>Permet de créer un Item typé</td>
+        </tr>
+        <tr>
+            <td>Vérifier que "MyItemType" est un type en cliquant sur "MyItemType", puis menu "Show all properties"</td>
+            <td>L'interrupteur "Is a type" est rendu visible</td>
+            <td>Il doit être activé. Sinon, activez le.</td>
         </tr>
         <tr>
             <td>Cliquer sur le boutton "+"</td>
