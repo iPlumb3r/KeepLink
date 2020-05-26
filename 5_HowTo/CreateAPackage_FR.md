@@ -1,12 +1,26 @@
-How To Create a Package ?
+Comment créer un package ?
 ==
 
-Verify your level
--
-Insure you already unlock the "Packager" level
-> See at the end of <a href="https://github.com/iPlumb3r/KeepLink/blob/master/4_Functions/ChangeLevel_EN.md">Change Level</a> instructions
+KeepLink permet de créer différents types de Package :
+* Package "Collaboratif
+* Package "Static"
+* Package "One-Off"
 
-Create a Package
--
+Le niveau d'utilisateur requis n'est pas le même pour tous les types de Package.
+Vous trouverez ici <a href="https://github.com/iPlumb3r/KeepLink/blob/master/4_Functions/ChangeLevel_FR.md">ici</a> les instructions pour changer de niveau.
 
-To Be Completed ...
+Package "Collaboratif"
+-
+Les caractéristiques de ce type de Package sont les suivantes : 
+* 
+
+Package "Collaboratif"
+-
+Les caractéristiques de ce type de Package sont les suivantes : 
+* 
+
+
+Package "Collaboratif"
+-
+Les caractéristiques de ce type de Package sont les suivantes : 
+* TO-BE-COMPLETED
