@@ -21,5 +21,5 @@ Comment débloquer le niveau "Packager" dans KL ?
 * Remplacer la barre inférieure par la barre droite
 * Ouvrez le menu "Paramètres / Paramètres personnalisés".
 * Cliquez sur le bouton "+".
-* Entrez "Autoriser les paquets de spectacles".
+* Entrez "Allow show packages".
 * Cliquez sur "OK".
