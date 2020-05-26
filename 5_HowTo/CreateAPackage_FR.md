@@ -2,7 +2,7 @@ Comment créer un package ?
 ==
 
 KeepLink permet de créer différents types de Package :
-* Package "Collaboratif
+* Package "Collaboratif"
 * Package "Static"
 * Package "One-Off"
 
