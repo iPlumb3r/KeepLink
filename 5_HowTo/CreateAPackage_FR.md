@@ -7,7 +7,7 @@ KeepLink permet de créer différents types de Package :
 * Package "One-Off"
 
 Le niveau d'utilisateur requis n'est pas le même pour tous les types de Package.   
-Vous trouverez <a href="https://github.com/iPlumb3r/KeepLink/blob/master/4_Functions/ChangeLevel_FR.md">ici</a> les instructions pour changer de niveau.
+Vous trouverez <a href="https://github.com/iPlumb3r/KeepLink/blob/master/5_HowTo/ChangeLevel_FR.md">ici</a> les instructions pour changer de niveau.
 
 Package "Collaboratif"
 -
