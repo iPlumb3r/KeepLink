@@ -26,7 +26,7 @@ Les caractéristiques de ce type de Package sont les suivantes :
 * Localisation du menu : Menu "Settings" / "Packages" => Boutton "+"
 * Mode de définition : Via une "recette" à base d'Items "inclus" et/ou "exclus" (et de "niveaux" de prise en compte)
 * Mode de réalisation : A chaque "Build", tout les Items sont regénérés
-* Mode d'utilisation : Celui qui reçois les Items ne peux PAS les supprimer individuellement (=> Il peut juste "dés-installer" le Package dans son intégralité).
+* Mode d'utilisation : Celui qui reçois le Package ne peux PAS les supprimer individuellement les Items (=> Il peut juste "dés-installer" le Package dans son intégralité).
 
 Package "One-Off"
 -
