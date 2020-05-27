@@ -17,7 +17,7 @@ The characteristics of this type of Package are as follows :
 * Definition mode : Adding Items one after the other
 * Mode of realization : With each "Build", a "Delta" is created.
 * Mode of use : The person who receives the Package can add new Items, but also delete existing Items (=> BUT this will delete them from all collaborators, including the issuer of the Package when applying updates)
-* Advanced: Ability to specify the inclusion of a "Static" package
+* Advanced : Ability to specify the inclusion of a "Static" package
 
 "Static" Package
 -
@@ -26,7 +26,7 @@ The characteristics of this type of Package are as follows :
 * Menu location : Menu "Settings" / "Packages" => Button "+"
 * Mode of definition : Via a "recipe" based on "included" and/or "excluded" Items (and "levels" of consideration)
 * Mode of realization : At each "Build", all the Items are regenerated.
-* How to use : Whoever receives the Items can NOT delete them individually (=> He can just "uninstall" the whole Package).
+* How to use :  The person who receives the Package can NOT delete Items individually (=> He can just "uninstall" the whole Package).
 
 "One-Off" Package
 -
