@@ -26,7 +26,7 @@ The characteristics of this type of Package are as follows :
 * Menu location : Menu "Settings" / "Packages" => Button "+"
 * Mode of definition : Via a "recipe" based on "included" and/or "excluded" Items (and "levels" of consideration)
 * Mode of realization : At each "Build", all the Items are regenerated.
-* How to use :  The person who receives the Package can NOT delete Items individually (=> He can just "uninstall" the whole Package).
+* How to use : The person who receives the Package can NOT delete Items individually (=> He can just "uninstall" the whole Package).
 
 "One-Off" Package
 -
