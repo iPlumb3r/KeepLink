@@ -40,7 +40,7 @@ Supported <a href="https://github.com/iPlumb3r/EcosystemMappingModel/blob/master
     </tbody>
 </table>
 
-See ow to change the level in KL <a href="https://github.com/iPlumb3r/KeepLink/blob/master/Functionalities/ChangeLevel.md">here</a>
+See how to change the level in KL <a href="https://github.com/iPlumb3r/KeepLink/blob/master/Functionalities/ChangeLevel.md">here</a>
 
 
 
