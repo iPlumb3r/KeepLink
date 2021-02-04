@@ -7,7 +7,7 @@ It can therefore - potentially - be applied from __numerous different domains__.
 
 Examples of "Personal" applications
 -
-* Do To List (Course, Voyages, ...)
+* Do To List (Purchase, Travel, ...)
 * Home Management
 * Networking
 * Genealogical "Tree"
