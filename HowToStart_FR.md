@@ -376,7 +376,7 @@ Liste des étapes :
             <td></td>
         </tr>
         <tr>
-            <td>Faire glisser la Property  "birth date" sur le Type d'Linf "affiliated to"</td>
+            <td>Faire glisser la Property  "birth date" sur le Type de Link "affiliated to"</td>
             <td>Un lien ("hiring date" defines "affiliated to") est créé</td>
             <td></td>
         </tr>
