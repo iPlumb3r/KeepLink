@@ -245,7 +245,7 @@ Liste des étapes :
 
 Définir un __Type__ de __Link__ (et l'utiliser)
 -
-__Remarque :__ Pour cette étape, il est nécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Designer"
+__Remarque :__ Pour cette étape, il est nécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink/blob/master/5_HowTo/ChangeUserLevel_FR.md">level</a> "Designer"
 
 Liste des étapes :
 <table>
