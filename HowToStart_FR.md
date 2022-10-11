@@ -168,7 +168,7 @@ Classifier/Typer un __Item__ (Explicitement)
 -
 Créer un nouvel __Item__ nommé _Person_ (En utilisant la fonction vu précédemment "Créer un __Item__")
 
-__Remarque :__ Pour cette étape, il est nécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink">mode</a> "Advanced"
+__Remarque :__ Pour cette étape, il est nécessaire de passer en <a href="https://github.com/iPlumb3r/KeepLink/blob/master/5_HowTo/ChangeUserLevel_FR.md">level</a> "Advanced"
 
 Liste des étapes :
 <table>
